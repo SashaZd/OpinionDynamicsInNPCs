@@ -8,7 +8,7 @@ from Knowledge.Article import Article
 def add_initial_media_sources(knowledge):
 	with open("AllSides/sources.json") as sources_file: 
 		data = json.load(sources_file)
-		for source in data.values(): 
+		for source in list(data.values()): 
 			new_source = Source(source['title'], source['rating'], source['url'])
 			knowledge.add_source(new_source)
 
@@ -24,7 +24,7 @@ def add_initial_topics(knowledge):
 def add_initial_articles(knowledge):
 	with open("AllSides/articles.json") as articles_file: 
 		data = json.load(articles_file)
-		for topic_title, articles in data.items():
+		for topic_title, articles in list(data.items()):
 
 			topic = Topic.get_topic_by_title(topic_title)
 			if not topic: 

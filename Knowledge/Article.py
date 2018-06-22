@@ -1,6 +1,6 @@
 from enum import Enum
-from Bias import Bias
-from Source import Source
+from .Bias import Bias
+from .Source import Source
 
 import itertools
 
@@ -8,7 +8,7 @@ import itertools
 class Article(object):
 	"""Single article from a media source"""
 
-	a_id = itertools.count().next
+	a_id = itertools.count().__next__
 	articles = []
 
 	def __init__(self, title, source, description="", url=None, rating=Bias.UNKNOWN, opinion=False):
@@ -78,7 +78,7 @@ class Article(object):
 	@classmethod
 	def filter_articles_by_rating(cls, rating):
 		rating = Bias.set_bias(rating)
-		print "Searching for articles with rating: ", rating
+		print(("Searching for articles with rating: ", rating))
 		return [article for article in cls.articles if article.rating is rating]
 
 	

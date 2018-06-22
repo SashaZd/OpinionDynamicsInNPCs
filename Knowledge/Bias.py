@@ -14,7 +14,7 @@ class Bias(Enum):
 
 	@classmethod
 	def set_bias(cls, bias):
-		if type(bias) != unicode and type(bias) != str:
+		if type(bias) != str and type(bias) != str:
 			if isinstance(bias, Bias):
 				return bias
 			else:
@@ -43,10 +43,10 @@ class Bias(Enum):
 		:raises ValueError: raises an exception if the value provided is not a float between -1.0 and 1.0
 
 		"""
-		if not type(val) == float and val >= -1 and val <= 1: 
+		if not type(val) == float and val <= -1 and val >= 1: 
 			raise ValueError("ValueError: is_left expects a float value between -1 and 1")
 
-		return Bias(self.round_to_nearest_bias(val)) is Bias.LEFT
+		return Bias(self.__class__.round_to_nearest_bias(val)) is Bias.LEFT
 		
 			
 
@@ -59,10 +59,10 @@ class Bias(Enum):
 		:raises keyError: raises an exception
 
 		"""
-		if not type(val) == float and val >= -1 and val <= 1: 
+		if not type(val) == float and val <= -1 and val >= 1: 
 			raise ValueError("ValueError: is_left expects a float value between -1 and 1")
 
-		return Bias(self.round_to_nearest_bias(val)) is Bias.LEAN_LEFT
+		return Bias(self.__class__.round_to_nearest_bias(val)) is Bias.LEAN_LEFT
 
 
 	def is_center(self, val):
@@ -74,10 +74,10 @@ class Bias(Enum):
 		:raises keyError: raises an exception
 
 		"""
-		if not type(val) == float and val >= -1 and val <= 1: 
+		if not type(val) == float and val <= -1 and val >= 1: 
 			raise ValueError("ValueError: is_left expects a float value between -1 and 1")
 
-		return Bias(self.round_to_nearest_bias(val)) is Bias.CENTER
+		return Bias(self.__class__.round_to_nearest_bias(val)) is Bias.CENTER
 
 
 	def is_leaning_right(self, val):
@@ -89,10 +89,10 @@ class Bias(Enum):
 		:raises ValueError: raises an exception if the value provided is not a float between -1.0 and 1.0
 
 		"""
-		if not type(val) == float and val >= -1 and val <= 1: 
+		if not type(val) == float and val <= -1 and val >= 1: 
 			raise ValueError("ValueError: is_left expects a float value between -1 and 1")
 
-		return Bias(self.round_to_nearest_bias(val)) is Bias.LEAN_RIGHT
+		return Bias(self.__class__.round_to_nearest_bias(val)) is Bias.LEAN_RIGHT
 		
 			
 
@@ -105,11 +105,21 @@ class Bias(Enum):
 		:raises keyError: raises an exception
 
 		"""
-		if not type(val) == float and val >= -1 and val <= 1: 
+		if not type(val) == float and val <= -1 and val >= 1: 
 			raise ValueError("ValueError: is_left expects a float value between -1 and 1")
 
-		return Bias(self.round_to_nearest_bias(val)) is Bias.RIGHT
+		return Bias(self.__class__.round_to_nearest_bias(val)) is Bias.RIGHT
 
 
-	def round_to_nearest_bias(self, val):
-		return round(bias*2)/2
+	@classmethod
+	def round_to_nearest_bias(cls, val):
+		return round(val*2)/2
+
+	@classmethod
+	def get_bias(cls, val):
+		return Bias(cls.round_to_nearest_bias(val))
+
+
+
+
+		

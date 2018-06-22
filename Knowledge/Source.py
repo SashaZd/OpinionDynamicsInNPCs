@@ -1,10 +1,10 @@
-from Bias import Bias
+from .Bias import Bias
 import itertools
 
 class Source(object):
 	"""docstring for Source"""
 
-	s_id = itertools.count().next
+	s_id = itertools.count().__next__
 	sources = []
 
 	def __init__(self, title, rating=Bias.UNKNOWN, url=""):

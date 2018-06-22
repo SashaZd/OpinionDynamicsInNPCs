@@ -3,7 +3,7 @@ import itertools
 class Topic(object):
 	"""docstring for Topic"""
 
-	t_id = itertools.count().next
+	t_id = itertools.count().__next__
 	topics = []
 
 	def __init__(self, title, description="", url=""):

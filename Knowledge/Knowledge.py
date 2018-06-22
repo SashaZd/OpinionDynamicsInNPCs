@@ -1,5 +1,6 @@
-from Source import Source
-from Topic import Topic
+from .Source import Source
+from .Bias import Bias
+from .Topic import Topic
 
 class Knowledge(object):
 	"""docstring for Knowledge"""
@@ -9,6 +10,19 @@ class Knowledge(object):
 		self.topics = set([])
 		self.articles = set([])
 		self.world = world
+
+
+	##################################################
+	# Political Affliation
+	##################################################
+	def set_political_affiliation(self, affiliation):
+		# print "Affliation"
+		pass
+
+
+
+	##################################################
+
 
 
 	def add_source(self, source):
@@ -69,6 +83,13 @@ class Knowledge(object):
 	def filter_articles_by_topic(self, topic):
 		topic_id = topic.id
 		return [self.world.get_article_by_id(article_id) for article_id in self.articles if topic_id in self.world.articles[article_id].topics]
+
+
+	def __str__(self):
+		return "KB:\n\tTopics: %s\n\tSources: %s\n\tArticles: %s"%(list(self.topics), len(self.sources), len(self.articles)) 
+
+	def __repr__(self):
+		return "KB:\n\tTopics: %s\n\tSources: %s\n\tArticles: %s"%(list(self.topics), len(self.sources), len(self.articles)) 
 
 
 
