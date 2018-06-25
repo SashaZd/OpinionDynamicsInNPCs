@@ -81,8 +81,8 @@ class Person(object):
 
 
 
-	def set_political_affiliation(self, affiliation):
-		self.knowledge.set_political_affiliation(affiliation)
+	def set_political_affiliation(self):
+		self.knowledge.set_political_affiliation()
 
 
 	##################################################

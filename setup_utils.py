@@ -11,6 +11,7 @@ def add_initial_media_sources(knowledge):
 		for source in list(data.values()): 
 			new_source = Source(source['title'], source['rating'], source['url'])
 			knowledge.add_source(new_source)
+	# pass
 
 
 def add_initial_topics(knowledge):
@@ -19,6 +20,7 @@ def add_initial_topics(knowledge):
 		for topic in data:
 			new_topic = Topic(topic['title'], topic['description'], topic['url'])
 			knowledge.add_topic(new_topic)
+	# pass
 
 
 def add_initial_articles(knowledge):
@@ -48,3 +50,4 @@ def add_initial_articles(knowledge):
 				new_article = Article(title, source, description, url, rating, opinion)
 				new_article.add_topic(topic)
 				knowledge.add_article(new_article)
+	# pass

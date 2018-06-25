@@ -317,18 +317,18 @@ class TheBeginning(Event):
 		num_articles_known = random.randint(1, len(self.world.articles))
 		articles = random.sample(self.world.articles, num_articles_known)
 
-		affiliation, count = 0, 0
+		# affiliation, count = 0, 0
 
 
 		for article in articles:
-			if article.rating.value <= 2: 
-				affiliation += article.rating.value
-				count += 1
+		# 	if article.rating.value <= 2: 
+		# 		affiliation += article.rating.value
+		# 		count += 1
 			baby.knowledge.add_article(article)
 
-		mean_aff = affiliation/count
-		print(baby.name, Bias.get_bias(mean_aff))
-		# baby.set_political_affiliation()
+		# mean_aff = affiliation/count
+		# print(baby.name, Bias.get_bias(mean_aff))
+		baby.set_political_affiliation()
 
 
 		# for views in 

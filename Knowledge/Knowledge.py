@@ -1,6 +1,9 @@
 from .Source import Source
 from .Bias import Bias
 from .Topic import Topic
+from .Article import Article
+
+from collections import defaultdict
 
 class Knowledge(object):
 	"""docstring for Knowledge"""
@@ -12,20 +15,29 @@ class Knowledge(object):
 		self.world = world
 
 
+
 	##################################################
 	# Political Affliation
 	##################################################
-	def set_political_affiliation(self, affiliation):
-		# print "Affliation"
+	def set_political_affiliation(self, affiliation=None):
+		# 
 		pass
 
 
-
 	##################################################
+	
+	# def create_source(self, 
+	# 			title: str, 
+	# 			rating: Bias = Bias.UNKNOWN, 
+	# 			url: str = ""):
 
+	# 	source = self.world.get_source_by_title(title)
+	# 	if not source: 
+	# 		source = Source(title, rating, url)
+	# 	return source
 
-
-	def add_source(self, source):
+	def add_source(self, 
+				source: Source):
 		"""Media Source
 			Add to the list of sources that this knowledge base is aware of
 			Note: this does not mean that the NPC subscribes to the knowledge source
@@ -34,50 +46,56 @@ class Knowledge(object):
 		if isinstance(source, Source):
 			self.sources.add(source.id)
 
-		# in case provided with just the source id 
-		elif type(source) == int: 
-			self.sources.add(source)
+	def create_topic():
+		pass
 
 
-	def add_topic(self, topic):
+	def add_topic(self, 
+				topic: Topic):
 		"""Topic or Issue
 			Topic of discussion 
 			Until AllSides data, we're using: Media Bias and Immigration as sample topics
 		"""
-		self.topics.add(topic.id)
+		if isinstance(topic, Topic):
+			self.topics.add(topic.id)
 
 
-	def add_article(self, article):
+	def add_article(self, 
+				article: Article):
 		"""A single article
 			From a source/media with an associated bias
 		"""
-		self.articles.add(article.id)
+		if isinstance(article, Article):
+			self.articles.add(article.id)
 
 		# In case this is a new topic/source introduced, add the topic/source to the knowledge base
-		for topic_id in article.topics: 
+		for topic_id in (topic_id for topic_id in article.topics if topic_id not in self.topics):
 			self.topics.add(topic_id)
 
-		self.add_source(article.source)
+		if article.source not in self.sources:
+			self.add_source(article.source)
 
 
 	def get_topic_by_title(self, title):
 		"""Get topic 
 			Return a specific topic/issue that matches the title.
 		"""
-		for topic in list(self.topics):
-			if topic.title == title: 
-				return topic
-		return None
+		topic = self.world.get_topic_by_title(title)
+		if topic.id in self.topics: 
+			return topic
+		else:
+			return None
 
 
 	def get_source_by_title(self, title):
 		"""Get source 
 			Return a source/media
 		"""
-		for source in list(self.sources):
-			if source.title == title: 
-				return source
-		return None
+		source = self.world.get_source_by_title(title)
+		if source.id in self.sources: 
+			return source
+		else:
+			return None
 
 
 	def filter_articles_by_topic(self, topic):

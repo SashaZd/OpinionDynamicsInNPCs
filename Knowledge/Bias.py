@@ -8,8 +8,8 @@ class Bias(Enum):
 	RIGHT 		= 1
 
 	# Unknown rating or Mixed rating
-	UNKNOWN 	= 10
-	MIXED 		= 20 
+	UNKNOWN 	= 0
+	MIXED 		= 0 
 
 
 	@classmethod

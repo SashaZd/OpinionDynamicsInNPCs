@@ -66,7 +66,8 @@ class World(object):		# the sim will run for 50 years by default
 			
 		# 	print topics, 
 
-	def get_article_by_id(self, article_id=0):
+	def get_article_by_id(self,
+	                      article_id : int = 0):
 		return self.articles[article_id]
 
 	def get_topic_by_id(self, topic_id=0):
@@ -74,6 +75,14 @@ class World(object):		# the sim will run for 50 years by default
 
 	def get_source_by_id(self, source_id):
 		return self.sources[source_id]
+
+	def get_source_by_title(self, source_title):
+		possible_source = [source for source in self.sources.values() if source.title == source_title]
+		if possible_source: 
+			return possible_source[0]
+		else:
+			return None
+
 
 	def get_npc(self, id):
 		return self.population[id]
