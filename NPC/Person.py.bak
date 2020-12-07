@@ -26,8 +26,6 @@ class Person(object):
 		self.events = []
 		self.journal = []			# journal tracking all events in this Sim's life
 
-		self.generation_num = 0
-
 		# Stores a list of Relationship objects, per person interacted with
 		# current_relationships = relationships currently in progress 
 		# past_relationships = if the person stops meeting this person, then after a set time, we demote them
@@ -35,39 +33,14 @@ class Person(object):
 		self.current_relationships = {}
 		self.past_relationships = {}
 
-		# self.partner = None
-		self.spouse = None
-		self.children = []
-
-		# Sexually active at the age 18 
-		self.flag_sexually_active = False
-
 		# Names and aliases for this person
 		# Known aliases, in case of change of name during wedding, etc to track family?
 		self.aliases = set()
 		self.last_name = None
 		self.first_name = None
 
-		# Academic details 
-		# ToDo: Represent the knowledge or degree topic? If related to society topic it could 
-		#  		represent an increase in the confidence of the topic 
-		self.flag_education = False  # if the person is too old, or not interested in school, don't check
-		self.flag_activate_school = False
-		self.current_school = None
-		self.past_schools = []
-		self.flag_activate_university = False
-		self.university = None
-		self.past_universities = None
-		self.events = []
-
-		# Age for the person 
-		# age is set as a @property. If it changes, it triggers flags in the person.
-		self.age = 0		# increments every year 
-
 		# Knowledge
-		self.knowledge = Knowledge(self.world, self)
-
-
+		self.knowledge = Knowledge(self.world)
 
 	@classmethod
 	def get_population_living(cls):
@@ -91,7 +64,7 @@ class Person(object):
 		self.world.birthdays = [self.birthdate.day, self.birthdate.month, self]
 
 	def update_relationship(self, other, relationship_type):
-		if other in list(self.current_relationships.keys()):
+		if other in self.current_relationships.keys():
 			relationship = self.current_relationships[other]
 
 		# Don't have a relationship with this person
@@ -103,7 +76,7 @@ class Person(object):
 		relationship.update_relationship(relationship_type, 1)
 
 
-	def set_political_affiliation(self, bias: Bias):
+	def set_political_affiliation(self, bias:Bias):
 		self.political_affiliation = bias
 		self.knowledge.set_political_affiliation(bias)
 
@@ -157,9 +130,6 @@ class Person(object):
 
 	def do_age(self):
 		self.age += 1
-		# Todo: Recalculate your political views?
-		# print(self.name)
-		self.knowledge.reevaluate_political_affiliation()
 
 	@property
 	def age(self):
@@ -168,27 +138,23 @@ class Person(object):
 	@age.setter
 	def age(self, age):
 		"""Aging the person a year at a time. 
-
+		
 		@property age will allow for changes in flags... 
 		Eg. allowing for school, work, sexually active behaviour, etc
 		"""
-
-		# if not hasattr(self, 'age') and age: 
-		# 	self.__age = age
-
 		if isinstance(age, int):
 			self.__age = age
 
 
-		# if self.town == self.world.towns['Area 51']:
-		# 	return
+		if self.town == self.world.towns['Area 51']:
+			return
 
 		# print "Otherwise here.... ", self.town
 		# Check if age is old enough for sexual partners
-		if not self.flag_sexually_active and age > 18 and age <= 44: 
+		if not self.flag_sexually_active and self.age > 18 and self.age <= 44: 
 			self.flag_sexually_active = True
 
-		if self.flag_sexually_active and age > 45: 
+		if self.flag_sexually_active and self.age > 45: 
 			self.flag_sexually_active = False
 
 		if self.spouse and not self.pregnant and self.flag_sexually_active: 
@@ -198,18 +164,19 @@ class Person(object):
 		# 	self.have_baby()
 
 		# Education Loops
-		if age > 5 and age <= 17:  # 17 because we've not simulated universities yet
-			if not self.current_school: 
-				self.flag_education = True
+		if self.age > 5 and self.age <= 17:  # 17 because we've not simulated universities yet
+			self.flag_education = True
+		else:
+			self.flag_education = False
+
+		if self.flag_education: 
+			if self.age > 5 and self.age <= 17: 
 				self.enroll_in_school()
 
-		elif self.flag_education:
-			self.flag_education = False
-			self.unenroll_from_school()
-
-		# if self.flag_education and not self.school: 
-		# 	self.enroll_in_school()
-
+			if self.flag_activate_school and self.age > 17: 
+				self.unenroll_from_school()
+		
+		
 
 		# if self.spouse and self.gender=="female" and not self.pregnant: 
 		# 	# homosexual couple, toss coin to see who gets pregnant? 
@@ -217,7 +184,7 @@ class Person(object):
 		# 	if self.spouse.gender == "female" and not self.spouse.pregnant: 
 		# 		# should you get pregnant 
 		# 		if random.random() < 0.5: 
-
+					
 		# 				self.pregnant_in_marriage()
 		# 	else: 
 
@@ -239,7 +206,7 @@ class Person(object):
 
 	def have_baby(self):
 		# old = len(self.children)
-		from .Event import Birth
+		from Event import Birth
 		born = Birth(self.world, self, self.spouse)
 		self.pregnant = False
 		current_date = self.world.current_date
@@ -263,14 +230,14 @@ class Person(object):
 		journal_message = "Announcement - We're pregnant! ", self.name, self.spouse.name
 		self.journal.append(journal_message)
 		self.spouse.journal.append(journal_message)	
-
-
+		
 	def consider_having_baby(self):
 		""" Some probability of having a baby 
 		"""
-		n_kids = 0
 		if self.children: 
 			n_kids = len([child for child in self.children if self in child.parents and self.spouse in child.parents])
+		else:
+			n_kids = 0
 
 		probability_of_a_child = 0.35 / (n_kids + 1)
 
@@ -283,9 +250,9 @@ class Person(object):
 
 			elif self.spouse.gender == "female":
 				self.spouse.get_pregnant()
-
+			
 			else:
-				print("Want to adopt, but no such feature in game yet")
+				print "Want to adopt, but no such feature in game yet"
 
 	##################################################
 	# Everything to do with Academia - Schools and Universities 
@@ -296,48 +263,28 @@ class Person(object):
 	# Future: Could change this per region based on real stats? 
 	# ToDo: Need to move this to the events class? 
 	def enroll_in_school(self):
-		from .Event import UpdateSchoolMembership
+		self.flag_activate_school = True
 
 		# If there's a school
 		if self.town.schools:
 			chosen_school = random.choice(self.town.schools)
-			enroll = UpdateSchoolMembership(self.world.current_date, self, "enroll", chosen_school)
-
+			chosen_school.enroll_student(self)
+			self.current_school = chosen_school
+		
 		else: 
-			print("%s district has no school to enroll in. Relocate?" % (self.town))
-
+			print "%s district has no school to enroll in. Relocate?"%(self.town)
 
 	def unenroll_from_school(self):
-		from .Event import UpdateSchoolMembership
-		unenroll = UpdateSchoolMembership(self.world.current_date, self, "unenroll")
-
-
-	##################################################
-	# Relationships with other people 
-	##################################################
-
-	def simple_interaction(self, group, relationship_type):
-		"""Power up relationship with a person""" 
-		# group_to_interact_with = list(set(group) - set([self]))
-
-		for person in [person for person in group if person != self]: 
-			self.update_relationship(person, relationship_type)
-
-
-	def update_relationship(self, other, relationship_type):
-		# Don't have a relationship with this person
-		# Creating a new relationship with this person
-		if other not in self.current_relationships.keys():
-			self.current_relationships[other] = Relationship(self, other)
-
-		self.current_relationships[other].update_relationship(relationship_type, 1)
-
+		self.flag_activate_school = False
+		self.current_school.unenroll_student(self)
+		self.past_schools.append(self.current_school)
+		self.current_school = None
 
 
 	##################################################
 	# Everything to do with Addressses and Locations 
 	##################################################
-
+	
 	# To Do
 	def relocate_home(self, town=None, house_number=None, with_household=[]):
 		"""Relocation of Home

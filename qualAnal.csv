@@ -1,0 +1,267 @@
+Index,Quotes,Codebook #1
+1,1-1: The consistency with which the Right Opined people stuck to their stand,#StandingGround #Believable #Expected #UsedPoliticalAffiliationStereotype #GroupsStandGround
+2,1-2: Ada was swayed to the right.,#InfluenceGroup #NPCMentionedUnprompted
+3,1-3: Johnnie's stand,#NPCMentionedUnprompted
+4,1-4: People grouping up when views were similar; but not the same,#InfluenceGroup #IdentifyingSimilarGroups #ReceivingSupport #ClusteringBelievable
+5,1-5: Johnnie  leaning left,#NPCMentionedUnprompted #ChangedOpinion
+6,1-7: After an internal debate Helqa Bass realized that the strength of the qroup's convictions was too weak Helga Bass did not change their mind,#StandingGround #NPCMentionedUnprompted #Disagreement #Believable #Expected
+7,1-8: No drastic changes in views but groups did come closer to same opinion on both sides.,#MiddleGround #InfluenceGroup #SimilarViewsConverge #Believable #Expected 
+8,1-9: That over time and rounds of arguments consensus develops around two poles of thought; even though within the poles there's a range of opinion/degree of certainty.,#Polarization #SimilarViewsConverge #Believable #Expected #IdentifyingSimilarGroups #ClusteringBelievable
+9,1-11: No one changed their mind,#StandingGround #Believable #Expected
+10,1-12: Right leaning viewpoints stayed right,#StandingGround #UsedPoliticalAffiliationStereotype #IdentifyingSimilarGroups #Believable #Expected
+11,1-14: The way that people's opinions tended to move towards the opinions of those who had similar opinions; causing clusters to slowly emerge.,#InfluenceGroup #Polarization #SimilarViewsConverge #Believable #Expected #ClusteringBelievable
+12,1-15: The participants tended to cluster away from centrism.,#Polarization #Expected #Believable
+13,1-16: that there are two groups formed by the two left-of-center people and the two right-of-center people,#Polarization #ClusteringBelievable #Expected #Believable
+14,1-17: People changing their opinions.,#Influence #Believable #Expected #ChangedOpinions
+15,1-18: Helga,#NPCMentionedUnprompted #ChangedOpinion #Believable #Expected
+16,1-19: Helga started at Left; moved to centrist and then closed at left,#NPCMentionedUnprompted #ChangedOpinion
+17,"1-20: That the right leaning group, one of whose members was very certain about his opinion, did budge in their convictions ",#InfluenceIndividual #CertaintyConvinces #StandingGround #IdentifyingSimilarGroups #ChangedOpinion 
+18,1-21: Ada and Johnnie matching their views,#MiddleGround #NPCMentionedUnprompted #SimilarViewsConverge #Believable #Expected
+19,2-1: the little change in Mary's stance,#StandingGround #NPCMentionedUnprompted #Believable #Expected
+20,2-2: Mary was swayed by Shirley,#Believable #Expected #NPCMentionedUnprompted #MiddleGround #InfluenceIndividual
+21,2-3: Shirly's stand [was the most believable],#NPCMentionedUnprompted #StandingGround #CertaintyConvinces #Believable #Expected
+22,2-4: The 3 people could not reconcile views,#LackingSupport #Disagreement #Believable #Expected
+23,2-6: The specific measures are very practical,#Meta
+24,2-7:  They tried to reconcile the difference,#MiddleGround
+25,2-8: The fact that James had not changed drastically on his political opinion but has opened up his opinion to uncertainty seems believable since he is out numbered in the group.,#NPCMentionedUnprompted #ChangedOpinion #InfluenceGroup #LackingSupport #Believable #Expected #DecreasingCertainty
+26,2-9: Mary's uncertainty reduced,#DecreasingCertainty #NPCMentionedUnprompted #Believable #Expected
+27,2-11: Shirley unchanged position,#StandingGround #NPCMentionedUnprompted #Believable #Expected
+28,2-12: I couldn't find any of it believable.,#NotBelievable
+29,2-13: Because their views are very unreliable.,
+30,2-14: No substantial agreement was reached; which is what you might expect from an argument where people's views start out very highly separated from each other.,#StandingGround #Polarization #CausalInference #Disagreement
+31,2-15: The widely-spaced participants did not move much toward each other's positions.,#StandingGround #Polarization #Believable #Expected
+32,2-16: that the most liberal person would be the person most open to changing their mind,#Believable #Expected #UsedPoliticalAffiliationStereotype
+33,2-17: no one changed their opinion,#StandingGround #Believable #Expected
+34,2-18: no one changed their views,#StandingGround #Believable #Expected
+35,2-19: Nobody found consensus,#StandingGround #Disagreement #Believable #Expected
+36,2-20: that James as his opinions started to change; as a result of the discussions; his uncertainty also increased ,#DecreasingCertainty #NPCMentionedUnprompted #Believable #Expected #ChangedOpinions #CausalInference
+37,2-21: James becoming slightly uncertain (0.3) on account of changing their opinion,#DecreasingCertainty #NPCMentionedUnprompted #Believable #Expected #ChangedOpinions #CausalInference
+38,3-1: That the centrist didnt change their opnion much,#StandingGround #Believable #Expected #UsedPoliticalAffiliationStereotype
+39,3-2: Kevin and Kathleen became more centrist.,#NPCMentionedUnprompted #MiddleGround #PoliticalIdentity
+40,3-3: Kathleen,#NPCMentionedUnprompted #Believable #Expected 
+41,3-4: That the groups were swayed more easily when they engaged with more people (compared to earlier simulated conversations),#InfluenceGroup #Believable #Expected 
+42,3-6: The reason inside is very simple,#NoAnswer
+43,3-7: They decided to change their rating to indicate the same,#ChangedOpinion #MiddleGround
+44,3-8: Lashawna swaying slightly more conservative because she had a very convincing and large group and this would easily move her to similar opinion. ,#NPCMentionedUnprompted #InfluenceGroup #ChangedOpinion #CausalInference
+45,3-9: The right-leaning opinions solidified and remained unchanged. ,#StandingGround #ReinforcedViews #Believable #Expected 
+46,3-11: unchanging minds of majority,#StandingGround #AgreeWithMajority #GroupsStandGround #Believable #Expected 
+47,3-12: Left-leaning participants seemed to become less certain about their views,#UsedPoliticalAffiliationStereotype #DecreasingCertainty #IdentifyingSimilarGroups
+48,3-13: Because their views are very unreliable.,#CausalInference
+49,3-14: The unexpected move of Juan Vicic towards the Left and Patrice's position feels like the kind of strange turn that might happen in a real conversation - in a large enough conversation you will see some people's opinions change.,#NPCMentionedUnprompted #InfluenceIndividual #Expected #Unexpected #ChangedOpinion
+50,3-15: People tended to cluster into ideological groups.,#Polarization #IdentifyingSimilarGroups #Believable #Expected 
+51,3-16: people seemed to be swayed by people who were politically similar to themselves,#InfluenceGroup #SimilarViewsConverge #InfluenceIndividual
+52,3-17: The voting aligned with their political views,#Believable #Expected #PoliticalIdentity
+53,3-18: centrist not changing their opinion,#StandingGround #Believable #Expected #UsedPoliticalAffiliationStereotype
+54,3-19: The rights stayed together,#StandingGround #SimilarViewsConverge #UsedPoliticalAffiliationStereotype
+55,3-20: group formations seems coherent with each member's affiliation ,#InfluenceGroup #SimilarViewsConverge #PoliticalIdentity #ClusteringBelievable #Believable #Expected
+56,3-21: The five on the right sticking together,#StandingGround #SimilarViewsConverge #UsedPoliticalAffiliationStereotype #GroupsStandGround #Believable #Expected 
+57,4-1: No change by the left,#StandingGround #UsedPoliticalAffiliationStereotype #IdentifyingSimilarGroups
+58,4-2: Norma and Edward swayed each other,#InfluenceIndividual #Believable #Expected #NPCMentionedUnprompted
+59,4-3: Edward,#Believable #Expected #NPCMentionedUnprompted
+60,4-4: When views were the same (right group); they still got more to the right for both people after discussing the topic more.,#Polarization #Believable #Expected #SimilarViewsConverge #ReinforcedViews #InfluenceGroup
+61,4-6: is honest and trustworthy,#NoAnswer
+62,4-7: Lyman did not change their mind.William Mahaffey-Cochran was swayed by Amy Welsh's argument,#NPCMentionedUnprompted #StandingGround #InfluenceIndividual #ChangedOpinion
+63,4-8: The changes of opinions overall were relatively moderate.,#ChangedOpinion #Believable #Expected 
+64,4-9: Amy's uncertainty dropping after reading the centrist article and the first round of arguments,#IncreasingCertainty #NPCMentionedUnprompted #InfluenceArticle #InfluenceIndividuals #Believable #Expected
+65,4-11: Edward's  change in opinion,#Believable #Expected #NPCMentionedUnprompted #ChangedOpinion
+66,4-12: Edward and Norma didn't change their views at all; and became very certain pretty quickly,#NPCMentionedUnprompted #IncreasingCertainty #StandingGround
+67,4-13: Because their views are very unreliable.,#NoAnswer
+68,4-14: I have no idea.....................................,#NoAnswer
+69,4-15: Even though I didn't expect it; Kenneth's rightward turn is believable.,#Believable #Unexpected #NPCMentionedUnprompted #ChangedOpinion
+70,4-16: that the two right-wingers would converge with each other,#SimilarViewsConverge
+71,4-17: The voting aligned with the individual's political views.,#PoliticalIdentity #Believable #Expected #ChangedOpinions
+72,4-18: Amy was swayed by William,#NPCMentionedUnprompted #InfluenceIndividual #ChangedOpinion
+73,4-19: Lefts found common ground and reached equilibrium,#SimilarViewsConverge #MiddleGround #ReceivingSupport #Believable #Expected #UsedPoliticalStereotypes
+74,4-20: That once the groups are formed they stay the same ,#StandingGround #SimilarViewsConverge #ClusteringBelieveable #GroupsStandGround #Believable #Expected
+75,4-21: Amy moving to the left,#NPCMentionedUnprompted #ChangedOpinion #Believable #Expected
+76,1-1: The change in Johnie stand,#NPCMentionedUnprompted #NotBelievable #ChangedOpinion
+77,1-2: Ashley was swayed towards Helga.,#InfluenceIndividual #NotBelievable 
+78,1-3: Helga's part,#ChangedOpinion #NotBelievable 
+79,1-4: I think people get stronger/ more confident in their views after discussing/arguing about them; not weaker.,#DecreasingCertainty #NotBelievable #ChangedDespiteCertainty
+80,1-5: Helga leaning right,#NPCMentionedUnprompted #NotBelievable #ChangedOpinion
+81,1-7: It seemed as though Public Opinion hac formed.Ada Lawson realized the opinion they expressed was inconsistent with their internal attitude on the article.,#NPCMentionedUnprompted #OpinionAttitudeAlignment #NotBelievable 
+82,1-8: The fluctuation from high certainty back to uncertainty in a seemingly short time period. ,#DecreasingCertainty #NotBelievable #ChangedDespiteCertainty
+83,1-9: Helga's large fall in certainty from the start to Round 1 after reading a centrist position. If anything it should have pushed Helga towards the center joining Ada; who would've moved towards the center to meet Helga in the middle instead of being pushed rightward. According to the background; there's a weak correlation between reading more articles and more leftward tilt. Helga had read the most articles I believe; so her losing her certainty that much after 1 more article and 1 round of debate was unbelievable.  ,#NPCMentionedUnprompted #DecreasingCertainty #InfluenceArticle #ClusteringUnbelievable #NotLimitedKnowledge #NotBelievable #ChangedDespiteCertainty
+84,1-11: Ada decrease in uncertainty,#NPCMentionedUnprompted #DecreasingCertainty #NotBelievable 
+85,1-12: Sharp drop in uncertainty by Ashley and Helga,#NPCMentionedUnprompted #DecreasingCertainty #NotBelievable #ChangedDespiteCertainty
+86,1-14: The sharp and sudden variation in uncertainty in Helga & Ashley. They were first uncertain; then certain (round 1); then uncertain again. In particular; Helga went from being most uncertain (round 0) to most certain (round 1) to being middle of the pack (round 2+).,#NPCMentionedUnprompted #DecreasingCertainty #IncreasingCertainty #NotBelievable 
+87,1-15: Participants noticed inconsistencies in their thinking.,#OpinionAttitudeDifference #NotBelievable 
+88,1-16: that 2 participants went from relatively high uncertainty; to low uncertainty; but back to high uncertainty after the second round of conversation,#DecreasingCertainty #IncreasingCertainty #NotBelievable 
+89,1-17: People opinions don't match their internal attitudes.,#OpinionAttitudeDifference #NotBelievable 
+90,1-18: Ashley,#NPCMentionedUnprompted #NotBelievable 
+91,1-19: Ada and Johnnie never found any common ground until the end (probably my guess),#NPCMentionedUnprompted #SimilarViewsConverge #MiddleGround #NotBelievable 
+92,1-20: That all participants felt that their groups convictions were weak,#GroupsStandGround #NotBelievable 
+93,1-21: Helga going from fully uncertain in round 1 to fully certain in round 2,#IncreasingCertainty #NPCMentionedUnprompted #NotBelievable 
+94,2-1: The large uncertainty in James's Opinion,#DecreasingCertainty #NPCMentionedUnprompted #NotBelievable
+95,2-2: James was swayed by Mary or Shirley,#InfluenceIndividual #NPCMentionedUnprompted #ChangedOpinion #NotBelievable 
+96,2-3: James' fluctuation [was the least believable],#NPCMentionedUnprompted #ChangedOpinion #NotBelievable 
+97,2-4: James (someone who was extreme left) was swayed by article,#NPCMentionedUnprompted #InfluenceArticle #ExtremeChangesOpinion #NotBelievable #OvertonWindow
+98,2-6: The evidence cited is very full,#Believable
+99,2-7: Shirley Johnson decided the group's views were insufficient to change their opinions.,#NPCMentionedUnprompted #InfluenceGroup #NotBelievable #StandingGround #UncertaintyStatic
+100,2-8: I find it believable.,#Believable
+101,2-9: Shirley's uncertainty was high at the start. How did it become 0 and stay at 0? James' uncertanty was 0; how did it increase after reading the article?,#IncreasingCertainty #UncertaintyStatic #NPCMentionedUnprompted #NotBelievable #InfluenceArticle #ChangedDespiteCertainty
+102,2-11: Mary uncertainty decrease,#NPCMentionedUnprompted #DecreasingCertainty #NotBelievable 
+103,2-12: All of it; particularly James' views.,#NPCMentionedUnprompted #NotBelievable
+104,2-13: Because their views are very unreliable.,#NotBelievable
+105,2-14: Nothing in particular.,#Believable
+106,2-15: I expected Mary's rightward shift to be a bit stronger (possibly getting to Moderately Right by Round 6).,#NPCMentionedUnprompted #ChangedOpinion #NotBelievable 
+107,2-16: that Mary became more certain about her view for no reason,#NPCMentionedUnprompted #IncreasingCertainty #NotBelievable 
+108,2-17: Mary thinking the group's opinion didn't match their internal attitude.,#NPCMentionedUnprompted #ClusteringNotBelievable #StandingGround
+109,2-18: not much to not anticipate,#Believable #Expected
+110,2-19: Shirley's uncertainity,#NPCMentionedUnprompted #NotBelievable #UncertaintyStatic
+111,2-20: That Shirley was not influenced by the other two in any way,#NPCMentionedUnprompted #StandingGround #UncertaintyStatic #NotBelievable 
+112,2-21: Mary becoming more certain despite slightly changing her opinion,#NPCMentionedUnprompted #IncreasingCertainty #ChangedOpinion #NotBelievable 
+113,3-1: the increase in uncertainty for Patrice,#DecreasingCertainty #NPCMentionedUnprompted #NotBelievable 
+114,3-2: They went from 8 groups to 3 groups in one round.,#SimilarViewsConverge #ClusteringNotBelievable #NotBelievable 
+115,3-3: Unsure,#NoAnswer
+116,3-4: Kevin stayed straight centrist; was not influenced,#NPCMentionedUnprompted #StandingGround #NotBelievable 
+117,3-6: Easy to understand;fits us,#Believable
+118,3-7: Public Opinion not formed on the matter Kevin Quinto-Carrillo decided the group's views were insufficient to change their opinions.,#NPCMentionedUnprompted #StandingGround #NotBelievable
+119,3-8: Seems believable that the participants would interact in this way. ,#Believable
+120,3-9: Kathleen or Kevin - one of them had a lean-left rating but their uncertainty didn't change much at all and didn't move left-ward. ,#NPCMentionedUnprompted #StandingGround #UncertaintyStatic #NotBelievable 
+121,3-11: Patrice change in opinion,#NPCMentionedUnprompted #ChangedOpinion #NotBelievable 
+122,3-12: The centrists didn't change at all; which doesn't seem characteristic of the topic,#StandingGround #UsedPoliticalAffiliationStereotype #InferFactsFrom
+123,3-13: Because their views are very unreliable.,
+124,"3-14: The unexpected move of Juan Vicic towards the Left and Patrice's position is prima facie unlikely; Vicic was in the center; fairly far from Patrice's position and close to other people who agreed with them; so why would they change their view? (Yes; I'm listing the same thing as the most and least believable aspect of the conversation.)",#NPCMentionedUnprompted #InfluenceIndividual #NotBelievable 
+125,3-15: I was surprised by Juan's leftward move; expecting them to become more solidly centrist.,#NPCMentionedUnprompted #InfluenceIndividual
+126,3-16: that in Round 2; a lot of people were swayed; whereas in Round 1; almost no one was -- what was so different?,#ClusteringBelievable #ChangedOpinion #NotBelievable 
+127,3-17: People were swayed by the other participates.  It isn't likely with gun-control.,#InfluenceGroup #UsedPoliticalAffiliationStereotype #InferFactsFrom #NotBelievable 
+128,3-18: the extreme left/right fluctuating opinions,#UsedPoliticalAffiliationStereotype #ChangedOpinion #ExtremeChangesOpinion #OvertonWindow #NotBelievable
+129,3-19: Juan's view rating changing and finding common ground with Patricia,#NPCMentionedUnprompted #MiddleGround #ChangedOpinion #NotBelievable 
+130,3-20: that in the first round none of the centrist participants agreed with the article,#InfluenceArticle #NotBelievable #StandingGround
+131,3-21: Juan moving more to the left and with low uncertainty,#NPCMentionedUnprompted #ChangedOpinion #NotBelievable 
+132,4-1: the move of Kenneth to the right,#NPCMentionedUnprompted #ChangedOpinion #NotBelievable 
+133,4-2: Amy became very certain in round 2 after being fairly uncertain in the other rounds.,#NPCMentionedUnprompted #IncreasingCertainty #NotBelievable 
+134,4-3: Amy,#NPCMentionedUnprompted #NotBelievable 
+135,4-4: The left lean & centrist didn't group up,#ClusteringNotBelievable #NotBelievable 
+136,4-6: always acts with our interests in mind,#OpinionAttitudeAlignment #NotBelievable 
+137,4-7: Lyman did not change their mind,#NPCMentionedUnprompted #StandingGround
+138,4-8: William would be so persuasive with such fluctuating levels of uncertainty. ,#NPCMentionedUnprompted #UncertainMindsChange #CertaintyConvinces #NotBelievable 
+139,4-9: Kenneth's certainty dropping but his position moving rightward but not forming a consensus with anyone.,#NPCMentionedUnprompted #DecreasingCertainty #Disagreement #ChangedOpinion
+140,4-11: Kenneth change in opinion,#NPCMentionedUnprompted #ChangedOpinion #Unexpected
+141,4-12: Kenneth wasn't persuaded much at all; and shifting to the right seemed weird.,#NPCMentionedUnprompted #StandingGround #NotBelievable 
+142,4-13: Because their views are very unreliable.,#NoAnswer
+143,4-14: I have no idea..............................,#NoAnswer
+144,4-15: Only one person ended up being convinced by the article.,#InfluenceArticle #NotBelievable 
+145,4-16: Kenneth was swayed by the article in Round 2; but not in Round 1; it doesn't make sense that others' opinions didn't influence him; but reading the article a second time (but not the first time) did,#InfluenceArticle #InfluenceIndividual #ChangedOpinion #NotBelievable 
+146,4-17: six rounds of voting was the least believable.,#NotBelievable
+147,4-18: William was swayed at all,#NPCMentionedUnprompted #ChangedOpinion #NotBelievable 
+148,4-19: Kenneth swayed to the right at the very start and stayed right there,#NPCMentionedUnprompted #ChangedOpinion #NotBelievable 
+149,"4-20: 
+That people on the far right never seem to change their opinion or confidence in their convictions",#UsedPoliticalAffiliationStereotype #NotBelievable 
+150,4-21: Kenneth moving right,#NPCMentionedUnprompted #ChangedOpinion #NotBelievable 
+151,1-1-1: Due to limited knowledge and reading of the matter,#LimitedKnowledge
+152,1-1-2: She was less informed than Helga.,#LimitedKnowledge
+153,1-1-3: Ashely had no idea about others opinion,#InfluenceIndividual #LimitedKnowledge
+154,"1-1-4: Because she was an outlier/had the most ""extreme"" view to the left.",#OvertonWindow #ExtremeChangesOpinion
+155,1-1-5: The Groups conviction made her uneasy,#InfluenceGroup
+156,1-1-7: Opinions are exclusive,
+157,1-1-8: She didn't feel there was enough communal confidence or externally expressed confidence from Helga. ,#CertaintyConvinces #NotBelievable 
+158,1-1-9: Lack of support from like-minded people.,#LackingSupport
+159,1-1-11: She is more liberal and open to other points of view,#UsedPoliticalAffiliationStereotype
+160,1-1-12: Ashley doesn't fit well with leftist views,#LackingSupport #OpinionAttitudeAlignment
+161,1-1-13: Because their views are very unreliable.,
+162,1-1-14: I don't really know. Possibly because they were an outlier whose view was relatively far from their closest ideological neighbor (Helga)?,#LackingSupport #OvertonWindow
+163,1-1-15: Everyone else expressed a more rightward view; making Ashley's view appear more extreme left than it actually was.,#LackingSupport #OvertonWindow #ExtremeChangesOpinion
+164,1-1-16: no information is available for me to answer that question,#NotEnoughInfo
+165,1-1-17: Her opinion didn't agree with her her attitude.,#OpinionAttitudeDifference
+166,1-1-18: Not enough knowledge of the subject at hand,#LimitedKnowledge
+167,1-1-19: She was the only one moderately left,#LackingSupport
+168,1-1-20: She was uncertain to begin with and her group mate; who was the most knowledgeable (ie if no of prior articles read is an indicator of knowledge ); was also wavering in her convictions.,#UncertainMindsChange #LimitedKnowledge 
+169,1-1-21: Since they moved considerably towards the center; while they started fully left. Changing one's political identity on an issue isn't an easy task and can result in  much internal conflict and therefore high uncertainty.,#DecreasingCertainty #PoliticalIdentity #EmotionalResponse #InferFactsFrom #ChangedOpinion
+170,1-2-1: Because of the support she saw,#ReceivingSupport
+171,1-2-2: Johnnie was very certain.,#CertaintyConvinces #InfluenceIndividual
+172,1-2-3: Unsure,#NotEnoughInfo
+173,"1-2-4: Because she felt like she was a middle ground & had Johnnie further to the left to ease any uncertainty that her views were ""extreme"". ",#OvertonWindow #InfluenceIndividual
+174,1-2-5: She was swayed by the rest of the group,#InfluenceGroup
+175,1-2-6:  Not clear enough;understand difficult,#NotEnoughInfo
+176,1-2-7: Self-talk is closer to reality,#OpinionAttitudeDifference
+177,1-2-8: You must assume this was because of Johnnys certainty of conviction. ,#CertaintyConvinces #InfluenceIndividual
+178,1-2-9: She pushed closer to someone else with more conviction so found consensus with them. ,#CertaintyConvinces #InfluenceIndividual
+179,1-2-11: Because she was persuaded by Johnnie ,#CertaintyConvinces #InfluenceIndividual
+180,1-2-12: Ada is a typical right-winger and is looking for viewpoints to confirm her own bias; rather than be convinced by others,#UsedPoliticalStereotype
+181,1-2-13: Because their views are very unreliable.,
+182,1-2-14: I don't really know. Possibly because they felt supported by having a close ideological neighbor (Johnnie) who they came to agree with more over the course of the conversation?,#SimilarViewsConverge
+183,1-2-15: They found Helga's argument convincing in Round 1.,#InfluenceIndividual
+184,1-2-16: no information is available for me to answer that question,#NotEnoughInfo
+185,1-2-17: She thought the group's opinion was too weak.,#StandingGround
+186,1-2-18: Belief in the views of the person,#MiddleGround
+187,1-2-19: She found Johnnie in agreement,#SimilarViewsConverge #InfluenceIndividual #MiddleGround
+188,1-2-20: Because her group mate was very convinced and confident in his position  while the opposition seemed to be weak,#CertaintyConvinces #InfluenceIndividual 
+189,1-2-21: Forming a group with John who stayed pretty much put on their identity,#SimilarViewsConverge #PoliticalIdentity
+190,2-1: Because of the feeling of being marginalized,#LackingSupport
+191,2-2: Because two of the people he spoke to had very different opinions from him,#Disagreement
+192,2-3: NA,#NoAnswer
+193,2-4: Because he was influenced by the article so began questioning whether his views were true.,#InfluenceArticle
+194,2-6: His competitiveness is declining,#EmotionalResponse
+195,2-7: More concerned about their own rights and interests,#EmotionalResponse #UsedPoliticalStereotype
+196,2-8: The confidence of Shirley. ,#CertaintyConvinces
+197,2-9: The other two participants were closer together; so he tried to form consensus in the middle; further from his certain attitude.,#MiddleGround #InfluenceIndividual #OpinionAttitudeDifference #DecreasingCertainty #CausalInference
+198,2-11: He is doubting his far--left opinions/thoughts,#InferFactsFrom #DecreasingCertainty #OvertonWindow
+199,2-12: It doesn't make sense that it did. He wasn't persuaded; but I guess he didn't really know why and that made him uncertain,#NotBelievable #UncertainMindsChange
+200,2-13: Because their views are very unreliable.,
+201,2-14: Possibly because they were an outlier?,#Polarization
+202,2-15: They couldn't find any problems with the article but were faced with two strongly opposed interlocutors.,#InfluenceGroup #InfluenceArticle #CertaintyConvinces 
+203,2-16: openness to new ideas from the article,#InfluenceArticle
+204,2-17: the group couldn't change their opinions.,#StandingGround
+205,2-18: temporary bias because of peer-pressure in a group of majority conflicting opinions,#InfluenceGroup #OpinionAttitudeDifference
+206,2-19: He was the minority so probably he felt uncertain,#LackingSupport #InfluenceGroup
+207,2-20: The opposition members confidence and articulation was strong,#InfluenceGroup #CertaintyConvinces
+208,2-21: Because they significantly changed their opinion ,#ChangingMindsUncertain
+209,3-1: That he was open to reasoning and re affirmed his slight left bias,#InferFactsFrom #OpinionAttitudeDifference
+210,3-2: His opinion did not reflect his attitude at the beginning.,#OpinionAttitudeDifference
+211,3-3: Juan has no stand on their own,#LackingSupport
+212,3-4: He didn't want to seem biased externally so wanted to be portrayed as a centrist; but was privately left leaning,#OpinionAttitudeDifference
+213,3-6: support for innovation and reform strongly,#InferFactsFrom #EmotionalResponse 
+214,3-7: More Valuing Rights and Interests,#InferFactsFrom #EmotionalResponse 
+215,3-8: His high level of uncertainty coupled with his moderate stance indicates that Juan felt under informed on the topic. ,#LimitedKnowledge #UncertainMindsChange
+216,3-9: As his uncertainty dropped his opinion and attitude came into alignment,#OpinionAttitudeDifference #IncreasingCertainty #OpinionAttitudeAllignment
+217,3-11: He is not centrist and was persuaded by Patrice,#InfluenceIndividual
+218,3-12: Juan's opinion didn't seem to change enough to really show a change in his attitude; and he probably leans left.,#OpinionAttitudeDifference
+219,3-13: Because their views are very unreliable.,
+220,3-14: Nothing that I can tell.,#NotEnoughInfo
+221,3-15: Their view was probably more left-leaning than they initially realized.,#OpinionAttitudeDifference
+222,3-16: that he is more leftist than he originally thought he was,#OpinionAttitudeDifference
+223,3-17: Juan views on gun-control aligns with liberal views.,#UsedPoliticalAffiliationStereotype
+224,3-18: left-leaning with centrist views; hence more prone to go with the dominant public opinions,#InfluenceGroup #OpinionAttitudeDifference #AgreeWithMajority #UsedPoliticalAffiliationStereotype
+225,3-19: He might be left but shows his opinion as centrist,#OpinionAttitudeDifference
+226,3-20: He is mostly confident about his opinion and he is open to other's differing opinion when their opinions closely matches his on other key issues. ,#StandingGround #InferFactsFrom
+227,3-21: Open to changing their view on it,#InferFactsFrom
+228,4-1: because of Williams opinions,#InfluenceIndividual
+229,4-2: Her opinions were being swayed by William.,#InfluenceIndividual
+230,4-3: Due to others opinion,#InfluenceIndividual
+231,4-4: She was swayed by the argument and realized she wasn't as confident in her views anymore,#ChangingMindsUncertain #InfluenceGroup
+232,4-6: yes;cares about our  well-being,#EmotionalResponse #InferFactsFrom
+233,4-7: Privatization is too important in one's own view,#EmotionalResponse #InferFactsFrom #UsedPoliticalAffiliationStereotype
+234,4-8: The influence of Williams arguments. ,#InfluenceIndividual
+235,4-9: Because Edward and Norma had low uncertainty and fixed opinions. ,#InfluenceGroup #CertaintyConvinces
+236,4-10:  take-aways from this conversation,#NoAnswer
+237,4-11: William and Amy  discussed the subject and both changed their stand,#MiddleGround
+238,4-12: Maybe because Amy and William's uncertainty were converging; but this doesn't seem very plausible,#SimilarViewsConverge #NotBelievable
+239,4-13: Because their views are very unreliable.,#NoAnswer
+240,"4-14: I have no idea. Seriously; how am I supposed to get insight into these changes in uncertainty given such a paucity of information about what these ""characters"" are actually saying?",#NotEnoughInfo
+241,4-15: I think they were aware of their drift in position and how convinced they were by William's arguments.,#InfluenceIndividual #OpinionAttitudeDifference
+242,4-16: openness to considering other opinions,#InferFactsFrom
+243,4-17: Amy was swayed by William.,#InfluenceIndividual
+244,4-18: This shift is predictable based on base views,#OpinionAttitudeDifference
+245,4-19: Kenneth's move to the right as he was similar to her at the start,#SimilarViewsConverge
+246,4-20: Opposition had convincing arguments or tendency to want to agree with the majority,#InfluenceGroup #ChangedOpinion
+247,4-21: Persuasion by the Edward on the right,#InfluenceIndividual
+248,1-5: Deliberation within a group is important and with the right convincing you can change someones mind,#InfluenceGroup #Believable
+249,1-8: There is some power in group mentality but there's also a level of speculation here with limited information on specifics. ,#NotEnoughInfo #InfluenceGroup
+250,1-9: Centrist media helps solidify the most vocal/confident(low uncertainty) viewpoint instead of swaying opinion towards the article's viewpoint.,#CertaintyConvinces #ReinforcedViews #UsedPoliticalAffiliationStereotype #MoreCertainLessChange #CausalInference
+251,1-11: Uncertainty of left and centrist participants increased; which in my opinion indicates they are open to discussion and change their mind,#DecreasingCertainty #UncertainMindsChange #InferFactsFrom #UsedPoliticalAffiliationStereotype
+252,1-12: This method of portraying the conversation is pretty difficult to align with my own mental model of the dynamic. The graphs help; but the textual description is pretty poor. It's probably because it's too abstract.,#NotEnoughInfo
+253,"1-14: It's very hard to form a narrative from the raw; dry statistics presented here; and consequently extremely hard to judge whether it feels ""realistic"". I don't have a good knowledge of what kinds of statistical changes in arguments are common; and I suspect most people don't either. I do have a sense of whether a particular story seems plausible; and I think that in judging whether this simulation is realistic what I and most people will tend to do is make up a story about what's happening; and then substitute the question ""is this story plausible"" for ""is this simulation realistic"". But these aren't the same question at all. For example; different people may come up with entirely different stories; some of which they will find plausible; others implausible. I considered the drastic variation in uncertainty by Helga implausible; for example; but a convincing narrative could probably make it seem plausible to me! So I worry about the potential for ""just so story"" syndrome here - for making up a story that fits what you want to believe about the nature of human conversations.",#NotEnoughInfo #NPCMentionedUnmprompted #Meta
+254,1-15: It was believable but depressing that nobody ultimately changed their mind at the end of Round 3.,#StandingGround #EmotionalResponse
+255,1-16: this is impossibly vague -- the information given tells me nothing about what happened during the conversations,#NotEnoughInfo
+256,1-18: Not enough data to draw inferences on behavior. ,#NotEnoughInfo
+257,2-12: This whole scenario really didn't seem plausible.,#NotBelievable
+258,2-18: Isolation of group behavior and individual behavior,#Meta
+259,3-9: reducing uncertainty increases bloc formation and persuasive arguments can reduce uncertainty,#Influence #IncreasingCertainty #SimilarViewsConverge
+260,3-12: There are too many variables here for me to get a good read on my feelings about these metrics; particularly inclusion and persuasiveness.,#Meta #InferFactsFrom
+261,3-16: this is hard to follow,#NotEnoughInfo
+262,3-18: Isolation of group behavior and individual behavior,#Meta
+263,4-9: two similar people with similar conviction are harder to dislodge than a single person with similar uncertainty,#SimilarViewsConverge #UncertainMindsChange #ReceivingSupport #GroupsStandGround 
+264,4-14: By this point; I'm exhausted. There is no way to keep track of this many faceless; unfamiliar; characterless characters and form reasoned opinions about how each one formed their fictional opinions.,
+265,4-18: Last page; last question; not enough options. 2 groups with William and Amy; and the other group with rest is an important option.,#ClusteringNotBelievable #SimilarViewsConverge

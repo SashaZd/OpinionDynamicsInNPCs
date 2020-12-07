@@ -8,7 +8,6 @@ class Town(object):
 	"""docstring for Town"""
 	t_id = itertools.count().__next__
 	# citizens = []
-	
 
 	def __init__(self, name, world):
 		# super(Town, self).__init__()
@@ -20,10 +19,12 @@ class Town(object):
 		# Locations in the Town
 		self.schools = []
 		self.universities = []
-		# self.hospitals = []
+		self.hospitals = []
+		self.companies = []
+		self.restaurant = []
 		self.citizens = []
-		
-		
+
+
 		# Every home in the town
 		# { house_num(int) : {occupied: True/False, family_name: String}}
 		# build_home constructs a new home when needed, and returns it 
@@ -82,12 +83,13 @@ class Town(object):
 		if not house_number: 
 			house_number = self.find_unoccupied_home()
 
+		person.town = self.world.towns[self.name]
 		self.citizens.append(person.p_id)
 		self.homes[house_number]['occupied'] = True
 		self.homes[house_number]['family'] = person.last_name
 		self.homes[house_number]['occupants'].append(person.p_id)
 
-		person.town = self.world.towns[self.name]
+		
 		person.house_number = house_number
 
 
@@ -112,22 +114,27 @@ class Town(object):
 			Schools: For now, at least one school per location is generated
 			Universities: Todo
 		""" 
-		for i in range(random.choice(list(range(1, 2*NUM_SCHOOLS_PER_LOCATION)))):
+		for i in range(random.randint(1, 2*NUM_SCHOOLS_PER_LOCATION)):
 			self.add_school()
 
 
 	def add_school(self, school_name=None):
 		if not school_name: 
 			school_name = random.choice(SCHOOL_NAMES)
-		school = School(school_name, self.name, self.world.current_date)
+		school = School(self.world, school_name, self.name, self.world.current_date)
+
+		# set_subjects_taught
+		articles = random.sample(self.world.articles, random.randint(15, len(self.world.articles)))
+		school.set_articles_discussed(articles)
+
 		# school.set_subjects_taught(self.world.knowledge.topics.values())
 		self.schools.append(school)
-		
+
 
 	def add_hospital(self, hospital_name=None):
 		if not hospital_name: 
 			hospital_name = random.choice(HOSPITAL_NAMES)
-		hospital = Hospital(hospital_name, self.name, self.world.current_date) 
+		hospital = Hospital(self.world, hospital_name, self.name, self.world.current_date) 
 		self.hospitals.append(hospital)
 
 

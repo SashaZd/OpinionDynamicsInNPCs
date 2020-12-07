@@ -1,0 +1,21 @@
+
+
+Y = rawData$D1_Believable
+X = rawData[13:15]  # Say for the GunControl/Immigration values
+
+getpredEN = function(X,Y,alpha=1){
+	# Function for simple leave one out cross validation for elastic net
+	
+	n = length(Y)
+	mypred = rep(NA, n)
+	for (i in(1:n)){
+		currentX = X[-i,]
+		currentY = Y[-i]
+		lambda = cv.glmnet(currentX,currentY,alpha=alpha)$lambda.min # tuning parameter
+		currentmodel = glmnet(currentX,currentY,lambda=lambda,alpha=alpha)
+		mypred[i] = predict(currentmodel,newx=t(X[i,]),lamba=lambda)
+	}
+	return(mypred)
+}
+
+getpredEN(X, Y, 1)

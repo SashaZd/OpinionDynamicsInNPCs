@@ -1,231 +1,231 @@
 {
-	"Media Bias": [
+	"Gun Control and Gun Rights": [
 		{
-			"title": "Study finds 5,000 people may have died from Hurricane Maria in Puerto Rico. Cable news focused on Roseanne instead",
-			"rating": "Left",
-			"source": "Media Matters",
-			"description": "On Tuesday, Harvard researchers published a study estimating that approximately 5,000 deaths can be linked to Hurricane Maria in Puerto Rico. The same ",
-			"url": "https://www.allsides.com/news/2018-06-04-1404/study-finds-5000-people-may-have-died-hurricane-maria-puerto-rico-cable-news",
-			"opinion":false
-		},
-		{
-			"title": "How Liberals Got Lost on the Story of Missing Children at the Border",
+			"title": "Police seize over a thousand guns, piles of ammunition from Los Angeles home",
+			"description": "A man in Los Angeles' posh Holmby Hills neighborhood was hiding a stash of weapons large enough to outfit an army.",
+			"source": "ABC News",
 			"rating": "Lean Left",
-			"source": "New York Times",
-			"description": "Over the weekend, you may have seen a horrifying story: Almost 1,500 migrant children were missing, and feared to be in the hands of human traffickers. The...",
-			"url": "https://www.allsides.com/news/2018-06-02-0810/how-liberals-got-lost-story-missing-children-border",
-			"opinion":false
-		},
-		{
-			"title": "Trump’s teasing jobs report tweet raises questions",
-			"source": "The Boston Globe",
-			"rating": "Lean Left",
-			"description": "With a tantalizing tweet, President Donald Trump seemed to tease a positive jobs report on Friday, a protocol-defying step that moved markets and raised...",
-			"url": "https://www.allsides.com/news/2018-06-01-1158/trump’s-teasing-jobs-report-tweet-raises-questions",
-			"opinion":false
-		},
-		{
-			"title": "Sinclair's propaganda may be coming to a town near you ... or they may already control your news",
-			"rating": "Left",
-			"source": "Daily Kos",
-			"description": "Sinclair Broadcast Group forces its anchors to recite propaganda, drawing cheers from Donald Trump. It fired a local reporter after she told the truth about...",
-			"url": "https://www.allsides.com/news/2018-05-28-0833/sinclairs-propaganda-may-be-coming-town-near-you-or-they-may-already-control",
-			"opinion":false
-		},
-		{
-			"title": "Why Is Elon Musk Attacking the Media? We Explain. (Also, Give Us a Good Rating!)",
-			"rating": "Lean Left",
-			"description": "Elon Musk, the billionaire who has ambitions to colonize Mars and whose companies make electric vehicles and rockets, spent part of his Wednesday...",
-			"source": "New York Times",
 			"url": "",
-			"opinion":true
+			"opinion": false
 		},
 		{
-			"title": "All Politics Is National Because All Media Is National",
-			"rating": "Center",
-			"source": "FiveThirtyEight",
-			"description": "State and local governments have a huge influence on citizens’ daily lives. They spend people’s tax dollars. They decide how schools operate and what...",
-			"url": "https://www.allsides.com/news/2018-06-11-1303/all-politics-national-because-all-media-national",
-			"opinion":false
-		},
-		{
-			"title": "Almost seven-in-ten Americans have news fatigue, more among Republicans",
-			"rating": "Center",
-			"source": "Pew Research",
-			"description": "If you feel like there is too much news and you can’t keep up, you are not alone. A sizable portion of Americans are feeling overwhelmed by the amount of...",
-			"url": "https://www.allsides.com/news/2018-06-11-1248/almost-seven-ten-americans-have-news-fatigue-more-among-republicans",
-			"opinion":false
-		},
-		{
-			"title": "Texas principal censors paper, bans all editorials and ousts award-winning adviser",
-			"rating": "Unrated",
-			"source": "Student Press Law Center",
-			"description": "",
-			"url": "https://www.allsides.com/news/2018-06-11-1248/almost-seven-ten-americans-have-news-fatigue-more-among-republicans",
-			"opinion":false
-		},
-		{
-			"title": "Trump Roils Jobs Day With Thumbs-Up Tweet Before Data Release",
-			"rating": "Center",
-			"source": "Bloomberg",
-			"description": "President Donald Trump was briefed Thursday night about the monthly employment report issued Friday morning in Washington and signaled in advance that the...",
-			"url": "https://www.allsides.com/news/2018-06-01-1200/trump-roils-jobs-day-thumbs-tweet-data-release",
-			"opinion":false
-		},
-		{
-			"title": "Media literacy is a vital skill",
-			"rating": "Unrated",
-			"source": "Lincoln Journal Star",
-			"description": "Without a free press, there is no democracy. Those words have been uttered in countless variations since the adoption of the First Amendment, and...",
-			"url": "https://www.allsides.com/news/2018-05-30-1335/media-literacy-vital-skill",
-			"opinion":false
-		},
-		{
-			"title": "Paul Krugman accuses media of 'pro-Trump bias'",
-			"rating": "Right",
-			"source": "Washington Examiner",
-			"description": "Economist and New York Times columnist Paul Krugman said the news media's tendency to strike balance when covering President Trump is injecting a \"pro-Trump...",
-			"url": "https://www.allsides.com/news/2018-06-11-1148/paul-krugman-accuses-media-pro-trump-bias",
-			"opinion":false
-		},
-		{
-			"title": "The Anti-Trump Media’s ‘Missing Kids’ Myth",
-			"rating": "Right",
-			"source": "National Review",
-			"description": "The viral story not a mistake but the product of unchecked bias.",
-			"url": "https://www.allsides.com/news/2018-06-02-0837/anti-trump-media’s-‘missing-kids’-myth",
-			"opinion":true
-		},
-		{
-			"title": "Kudlow on Trump Jobs Tweet: 'I Don't Think He Gave Anything Away'",
-			"rating": "Right",
-			"source": "Newsmax",
-			"description": "President Donald Trump was briefed Thursday night about the monthly employment report issued Friday morning in Washington and signaled in advance that the...",
-			"url": "https://www.allsides.com/news/2018-06-01-1202/kudlow-trump-jobs-tweet-i-dont-think-he-gave-anything-away",
-			"opinion":false
-		},
-		{
-			"title": "OPINION: The Astonishing Silliness of CNN",
-			"rating": "Right",
-			"source": "National Review",
-			"description": "The hysterical chyrons, the endless drama, Stormy, Stormy, Stormy . . . Better to watch sports or read a book.",
-			"url": "https://www.allsides.com/news/2018-06-01-0832/opinion-astonishing-silliness-cnn",
-			"opinion":true
-		},
-		{
-			"title": "Media Stokes Controversy About Melania Trump's Absence - Here's the First Lady's Response",
-			"rating": "Right",
-			"source": "CBN",
-			"description": "Major media outlets are stoking yet another controversy over at the White House, questioning why Melania Trump hasn't been seen in public since...",
-			"url": "https://www.allsides.com/news/2018-05-31-0743/media-stokes-controversy-about-melania-trumps-absence-heres-first-ladys",
-			"opinion":false
-		},
-		{
-			"title": "Elon Musk has a very bad idea for a website rating journalists",
-			"rating": "Center",
-			"source": "TechCrunch",
-			"description": "Elon Musk has, as I imagine he often does during meetings or long car rides, come up with an idea for a new thing. Unlike the Hyperloop, which was cool, and...",
-			"url": "https://www.allsides.com/news/2018-05-24-0829/elon-musk-has-very-bad-idea-website-rating-journalists",
-			"opinion":false
-		},
-		{
-			"title": "Tesla CEO Elon Musk blasts media, pitches site to rate journalists: 'No one believes you'",
-			"rating": "Center",
-			"source": "USA Today",
-			"description": "Elon Musk, the billionaire CEO of Tesla and SpaceX, ripped the news media for what he described as irresponsible reporting and suggested...",
-			"url": "https://www.allsides.com/news/2018-05-24-0809/tesla-ceo-elon-musk-blasts-media-pitches-site-rate-journalists-no-one-believes",
-			"opinion":false
-		},
-		{
-			"title": "Trump Attorney Michael Cohen's Secret 3rd Client: Fox News Host Sean Hannity",
-			"rating": "Center",
-			"source": "NPR News",
-			"description": "Donald Trump's longtime attorney Michael Cohen also has been representing Fox News host Sean Hannity, it emerged in federal court on Monday.",
-			"url": "",
-			"opinion":false
-		},
-		{
-			"title": "Sinclair requiring anchors to read new promo slamming 'one-sided news stories': report",
-			"rating": "Center",
-			"source": "The Hill",
-			"description": "Sinclair Broadcasting Corp. is requiring news anchors at its local TV stations to take part in a new promotional campaign that slams national media outlets...",
-			"url": "https://www.allsides.com/news/2018-04-02-1421/sinclair-requiring-anchors-read-new-promo-slamming-one-sided-news-stories",
-			"opinion":false
-		},
-		{
-			"title": "Why is the media attacking Trump's caution with Kim Jong Un? (Video)",
-			"rating": "Lean Right",
-			"source": "Fox News",
-			"description": "US diplomats are in North Korea attempting to salvage the previously scheduled meeting between President Trump and Kim Jong Un; 'Fox & Friends First'...",
-			"url": "https://www.allsides.com/news/2018-05-28-0742/why-media-attacking-trumps-caution-kim-jong-un-video",
-			"opinion":false
-		},
-		{
-			"title": "Elon Musk rants against media on Twitter, proposes website to rate journalists",
-			"rating": "Lean Right",
-			"source": "Fox News",
-			"description": "Tesla CEO Elon Musk aired his frustration with the media on Wednesday, issuing a series of tweets calling out the “hypocrisy of big media companies” before...",
-			"url": "",
-			"opinion":false
-		},
-		{
-			"title": "Trump triumphs on North Korea, stands strong on Iran, but media attacks continue",
-			"rating": "Lean Right",
-			"source": "Fox News",
-			"description": "This past week President Trump had another bout of winning, though you’d never know it from most media coverage",
-			"url": "https://www.allsides.com/news/2018-05-13-0925/trump-triumphs-north-korea-stands-strong-iran-media-attacks-continue",
-			"opinion":true
-		},
-		{
-			"title": "The Liberal Media's Answer to Ideological Diversity Concerns: Ban Conservatives, Hire Socialists",
-			"rating": "Lean Right",
-			"source": "Reason",
-			"description": "Should the liberal, conservative-disdaining media be even more liberal and disdainful of conservatives? It would be hard to make a better ",
-			"url": "https://www.allsides.com/news/2018-05-08-0746/liberal-medias-answer-ideological-diversity-concerns-ban-conservatives-hire",
-			"opinion":false
-		},
-		{
-			"title": "The Media Is Killing the Democratic Party",
-			"rating": "Right",
-			"source": "National Review",
-			"description": "Its fascination with Trump’s legal travails have not helped Democrats looking to the midterms.",
-			"url": "https://www.allsides.com/news/2018-05-06-0957/media-killing-democratic-party",
-			"opinion":false
-		},
-		{
-			"title": "Sean Hannity says Michael Cohen conversations not significant enough to inform Fox News",
-			"rating": "Lean Right",
-			"source": "Washington Times",
-			"description": "Fox News host Sean Hannity said his conversations with President Donald Trump’s lawyer were not significant enough to tell his superiors.",
-			"url": "https://www.allsides.com/news/2018-04-16-2147/sean-hannity-says-michael-cohen-conversations-not-significant-enough-inform-fox",
-			"opinion":false
-		},
-		{
-			"title": "Elon Musk wants to rate journalists. He'd call his site 'Pravda'",
-			"rating": "Lean Left",
+			"title": "'Mommy, there's a gun ... shot at my school.' Shooting near Columbine leaves 1 dead and 8 wounded",
+			"description": "(CNN) - Just a few miles from Columbine High School, gunfire echoed through the hallways of yet another Colorado school.",
 			"source": "CNN (Web News)",
-			"description": "Musk, the CEO of Tesla (TSLA) and SpaceX, accused the media of being dishonest and floated the possibility of building a service to rate the credibility of...",
-			"url": "https://www.allsides.com/news/2018-05-24-0815/elon-musk-wants-rate-journalists-hed-call-his-site-pravda",
-			"opinion":false
-		},
-		{
-			"title": "The Joy Reid controversy, from homophobic blog posts to a hacking claim, explained",
 			"rating": "Lean Left",
-			"source": "Vox",
-			"description": "MSNBC host Joy Reid was accused of writing homophobic blog posts. Reid at first said she was hacked — then apologized.",
-			"url": "https://www.allsides.com/news/2018-04-28-0906/joy-reid-controversy-homophobic-blog-posts-hacking-claim-explained",
-			"opinion":false
+			"url": "",
+			"opinion": false
 		},
 		{
-			"title": "Fox News Host Neil Cavuto Tells Trump He Stinks In Fiery Takedown“I guess you’re too busy draining the swamp to ever stop and smell the stink you’re creating.”",
+			"title": "Cory Booker unveils bold plan to curb gun violence",
+			"description": "Democratic presidential candidate and New Jersey Sen. Cory Booker introduced a sweeping gun violence prevention plan. If elected, the campaign announced...",
+			"source": "CBS News",
+			"rating": "Lean Left",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Cory Booker drops strong, ambitious gun law reform plan",
+			"description": "Sen. Cory Booker has taken the strongest position on gun law reform of any candidate in the 2020 Democratic presidential primary, with a proposal to require...",
+			"source": "Daily Kos",
 			"rating": "Left",
-			"source": "HuffPost",
-			"description": "\"I guess you’re too busy draining the swamp to ever stop and smell the stink you’re creating.\"",
-			"url": "https://www.allsides.com/news/2018-05-04-0902/fox-news-host-neil-cavuto-tells-trump-he-stinks-fiery-takedown",
-			"opinion":false
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "New Zealand is showing America how to respond to mass shootings",
+			"description": "DAYS AFTER a gunman carried out a horrifying attack on two mosques in Christchurch, New Zealand, that killed 50 people, Prime Minister Jacinda Ardern...",
+			"source": "Washington Post",
+			"rating": "Lean Left",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "House sends guns background check bill to the Senate with bipartisan support",
+			"description": "The House of Representatives on Wednesday passed significant gun control legislation for the first time in more than two decades, a move that Democrats hope...",
+			"source": "CNN (Web News)",
+			"rating": "Lean Left",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Democratic contenders step up calls for gun control legislation following Illinois shooting",
+			"description": "As the nation once again grappled with the tragedy and shock of another workplace shooting rampage, the 2020 Democratic candidates decried the failure of...",
+			"source": "CNN (Web News)",
+			"rating": "Lean Left",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Why the NRA is struggling",
+			"description": "Legislative defeats, financial problems, and a surprisingly difficult ally in the White House.",
+			"source": "Vox",
+			"rating": "Left",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Democrats to honor sad anniversary in introducing gun background checks bill on Tuesday",
+			"description": "Tuesday is January 8, the eighth anniversary of the shooting that nearly killed then-Rep. Gabby Giffords and did kill six people. And on Tuesday, House...",
+			"source": "Daily Kos",
+			"rating": "Left",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "At least 2 handguns used in school shooting near Columbine",
+			"description": "Two high school students used at least two handguns in the shooting at a charter school that killed one of their classmates...",
+			"source": "Associated Press",
+			"rating": "Center",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Sen. Cory Booker Rolls Out Gun-Control Proposal",
+			"description": "Democratic presidential candidate Cory Booker is proposing an aggressive approach to curb the flow of guns in the U.S., including strict new federal...",
+			"source": "Wall Street Journal - News",
+			"rating": "Center",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Cory Booker wants to start national gun licensing program, limit firearms purchases",
+			"description": "Democratic presidential hopeful Cory Booker on Monday unveiled a sweeping plan to reduce gun violence that includes establishing a national gun licensing...",
+			"source": "USA TODAY",
+			"rating": "Center",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "20 Years On, The Background Check System Continues To Miss Dangerous Gun Buyers",
+			"description": "Twenty years ago, a pair of students killed a teacher and a dozen of their classmates a high school in Littleton, Colo. The shooters at Columbine High...",
+			"source": "NPR News",
+			"rating": "Center",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Shaken by mosque massacre, New Zealand gun owners prepare to hand over banned weapons",
+			"description": "Mike Salvesen was working on his farm in the foothills of New Zealand’s Southern Alps last Friday when his phone began pinging with news of a tragedy...",
+			"source": "Reuters",
+			"rating": "Center",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Colorado school shooting leaves at least 1 dead, 8 injured; 2 in custody, sheriff's office says",
+			"description": "Two suspects were in custody Tuesday night after a shooting at a Colorado high school left at least one person dead and eight others injured, according to...",
+			"source": "Fox News",
+			"rating": "Lean Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Cory Booker: Americans should be 'thrown in jail' if they won't give up their guns",
+			"description": "Cory Booker said he backs legislation that would get Americans “thrown in jail” for owning \"assault weapons\" if they do not hand them over in a buyback...",
+			"source": "Washington Examiner",
+			"rating": "Lean Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Booker Refuses To Say Whether His Plan Would Result In Jailed Gun Owners",
+			"description": "Senator Cory Booker (D., N.J.) refused Monday to say definitively whether he would support the prosecution, and potential incarceration, of gun owners who...",
+			"source": "National Review",
+			"rating": "Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Colorado's New 'Red Flag' Law Illustrates the Pitfalls of Disarming People Based on Their Future Behavior",
+			"description": "The process for obtaining \"extreme risk protection orders\" that take away people's Second Amendment rights is rigged against gun owners from the outset....",
+			"source": "Reason",
+			"rating": "Lean Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "NRA's legal troubles, support for Trump in 2016 drain finances despite record membership growth",
+			"description": "Used to making news on Capitol Hill as one of the most powerful lobbying groups, the National Rifle Association is instead making waves in courtrooms, where...",
+			"source": "Washington Times",
+			"rating": "Lean Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Federal court strikes down California gun magazine ban",
+			"description": "A federal judge in California struck down the state's gun magazine ban Friday, saying it was unconstitutional.",
+			"source": "Washington Examiner",
+			"rating": "Lean Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Gun Control, background checks",
+			"description": "Federal gun background checks fall to lowest monthly level in four years",
+			"source": "Washington Times",
+			"rating": "Lean Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Why New Zealand's new gun controls would be unconstitutional in America",
+			"description": "As my colleague Anna Giaritelli notes, gun control activists are calling for U.S. adoption of New Zealand's new gun regulations, as ordered by Prime...",
+			"source": "Washington Examiner",
+			"rating": "Lean Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "New Zealand prime minister announces ban on 'military-style semi-automatic weapons' after mosque attack",
+			"description": "New Zealand Prime Minister Jacinda Ardern on Thursday announced the country was immediately banning \"military-style semi-automatic weapons\" after last week'...",
+			"source": "Fox News",
+			"rating": "Lean Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "The Bogus Lawsuit against Remington",
+			"description": "Two kinds of opportunism are at play against the gun manufacturer: financial and political.",
+			"source": "National Review",
+			"rating": "Right",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "New Zealand bans military-style assault rifles after deadliest attack in nation's history",
+			"description": "New Zealand is banning all assault rifles, high-capacity magazines and military-style semi-automatic rifles in response to the nation's deadliest massacre...",
+			"source": "USA TODAY",
+			"rating": "Center",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "House passes bill expanding background checks on gun sales",
+			"description": "The House passed a bipartisan bill that would require all gun sellers to conduct background checks on firearm sales in a 240-190 vote on Wednesday.",
+			"source": "The Hill",
+			"rating": "Center",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "One year after Parkland, what has – and hasn’t – changed",
+			"description": "Charlton Heston once held a rifle over his head and declared the government would only pry it from his “cold, dead hands.”",
+			"source": "Christian Science Monitor",
+			"rating": "Center",
+			"url": "",
+			"opinion": false
+		},
+		{
+			"title": "Trump administration bans bump stocks",
+			"description": "The Trump administration is issuing a final rule that bans bump stocks, devices that allow semi-automatic weapons to fire much more rapidly, the Department...",
+			"source": "The Hill",
+			"rating": "Center",
+			"url": "",
+			"opinion": false
 		}
 	],
-	
+
 	"Immigration": [
 		{
 			"title": "Room for Debate: Should ‘Birthright Citizenship’ Be Abolished?",
@@ -349,6 +349,7 @@
 		}
 	]
 }
+
 
 
 

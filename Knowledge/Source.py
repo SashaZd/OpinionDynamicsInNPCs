@@ -22,7 +22,7 @@ class Source(object):
 	@classmethod
 	def get_source_by_title(cls, title):
 		possible_sources = [source for source in cls.sources if source.title == title]
-		if len(possible_sources)>0: 
+		if len(possible_sources) > 0: 
 			return possible_sources[0]
 		else:
 			return None
@@ -35,7 +35,7 @@ class Source(object):
 
 	def set_rating(self, rating):
 		return Bias.set_bias(rating)
-		
+
 
 	@property
 	def rating(self):
@@ -47,21 +47,18 @@ class Source(object):
 
 		if not hasattr(self, 'rating') or self._rating is Bias.UNKNOWN: 
 			self._rating = rating
-		
+
 		elif rating not in self.other_ratings:
 			self.other_ratings.add(self._rating)
-			
-	
 
 	def __str__(self):
-		return "Source: %s | %s"%(self.title, self.rating)
+		return "Source: %s | Bias: %s" % (self.title, Bias.get_bias_text(self.rating.value))
 
 	def __repr__(self):
-		return "Source: %s | %s"%(self.title, self.rating)
+		return "Source: %s | Bias: %s" % (self.title, Bias.get_bias_text(self.rating.value))
 
 	def __eq__(self, other):
 		return self.title == other.title
 
 	def __hash__(self):
 		return hash(self.title)
-

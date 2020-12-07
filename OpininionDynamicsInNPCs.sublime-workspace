@@ -1,0 +1,1455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Grou",
+				"GroupDiscussion\tclass"
+			],
+			[
+				"contem",
+				"contemplate\tfunction"
+			],
+			[
+				"contemplate",
+				"contemplate_all_topics\tfunction"
+			],
+			[
+				"artic",
+				"article_views\tstatement"
+			],
+			[
+				"journal",
+				"journal_message\tstatement"
+			],
+			[
+				"member",
+				"members_discuss_article\tfunction"
+			],
+			[
+				"new",
+				"new_view"
+			],
+			[
+				"gr",
+				"group_views"
+			],
+			[
+				"discuss",
+				"discussion\tstatement"
+			],
+			[
+				"intii",
+				"initiate_group_discussion\tfunction"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"unenro",
+				"unenroll_from_school\tfunction"
+			],
+			[
+				"flat",
+				"flag_activate_school\tstatement"
+			],
+			[
+				"art",
+				"Article\tmodule"
+			],
+			[
+				"get",
+				"get_article_by_id"
+			],
+			[
+				"opini",
+				"opinion_grouping\tstatement"
+			],
+			[
+				"add",
+				"add_article\tfunction"
+			],
+			[
+				"sample",
+				"sample\tstatement"
+			],
+			[
+				"cose",
+				"closest_group\tstatement"
+			],
+			[
+				"largest",
+				"largest_group\tstatement"
+			],
+			[
+				"close",
+				"closest_group"
+			],
+			[
+				"public",
+				"public_opinion_formed"
+			],
+			[
+				"articl",
+				"article_view"
+			],
+			[
+				"closest",
+				"closest_group_to_view"
+			],
+			[
+				"articlei",
+				"article_view\tstatement"
+			],
+			[
+				"article",
+				"article_view\tstatement"
+			],
+			[
+				"discus",
+				"discussion_duration\tstatement"
+			],
+			[
+				"opio",
+				"opinion"
+			],
+			[
+				"op",
+				"opinion"
+			],
+			[
+				"opin",
+				"opinion_group\tparam"
+			],
+			[
+				"internal",
+				"internal_debate"
+			],
+			[
+				"clsoe",
+				"closest_group"
+			],
+			[
+				"closes",
+				"closest_group\tstatement"
+			],
+			[
+				"calss",
+				"classify_views_into_k_groups\tfunction"
+			],
+			[
+				"classfi",
+				"classify_views_into_k_groups"
+			],
+			[
+				"squ",
+				"squ_error\tfunction"
+			],
+			[
+				"filter",
+				"filter_articles_by_rating"
+			],
+			[
+				"do",
+				"do_things"
+			],
+			[
+				"genera",
+				"generate_view_based_on_bias\tfunction"
+			],
+			[
+				"otehr",
+				"other_opinion"
+			],
+			[
+				"categc",
+				"categ_count\tstatement"
+			],
+			[
+				"cat",
+				"categ_count\tstatement"
+			],
+			[
+				"categ",
+				"categ_count\tstatement"
+			],
+			[
+				"cate",
+				"categories\tstatement"
+			],
+			[
+				"ceg",
+				"categories\tstatement"
+			],
+			[
+				"assign",
+				"assign_initial_views"
+			],
+			[
+				"set_bias",
+				"set_bias_article\tfunction"
+			],
+			[
+				"rout",
+				"round_to_nearest_bias_npc"
+			],
+			[
+				"title",
+				"source_title"
+			],
+			[
+				"topic",
+				"topic_id"
+			],
+			[
+				"set",
+				"set_political_affiliation"
+			],
+			[
+				"buil",
+				"built_homes\tstatement"
+			],
+			[
+				"pers",
+				"person_id"
+			],
+			[
+				"dea",
+				"deceased_population\tstatement"
+			],
+			[
+				"house",
+				"house_number"
+			],
+			[
+				"a",
+				"add_article\tfunction"
+			],
+			[
+				"artice",
+				"articles"
+			],
+			[
+				"LEA",
+				"LEAN_RIGHT\tstatement"
+			],
+			[
+				"LEna",
+				"LEAN_LEFT\tstatement"
+			],
+			[
+				"adds",
+				"add_source\tfunction"
+			],
+			[
+				"artc",
+				"article"
+			],
+			[
+				"bias",
+				"Bias"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"to",
+				"topics\tstatement"
+			],
+			[
+				"Uk",
+				"UNKNOWN\tstatement"
+			],
+			[
+				"tpic",
+				"topics_file\tstatement"
+			],
+			[
+				"add_i",
+				"add_initial_topics"
+			],
+			[
+				"sour",
+				"sources"
+			],
+			[
+				"__re",
+				"__repr__\tfunction"
+			],
+			[
+				"Ri",
+				"RIGHT\tstatement"
+			],
+			[
+				"Lea",
+				"LEAN_RIGHT\tstatement"
+			],
+			[
+				"Ce",
+				"CENTER\tstatement"
+			],
+			[
+				"source",
+				"sources_file\tstatement"
+			],
+			[
+				"get_topic",
+				"get_topic_articles"
+			],
+			[
+				"gettopi",
+				"get_topic_description\tfunction"
+			],
+			[
+				"d",
+				"__description"
+			],
+			[
+				"desc",
+				"description\tfunction"
+			],
+			[
+				"dsc",
+				"description\tfunction"
+			],
+			[
+				"get_",
+				"get_topic_description"
+			],
+			[
+				"text",
+				"text_content"
+			],
+			[
+				"BAS",
+				"URL_BASE"
+			],
+			[
+				"info",
+				"infoTable2\tstatement"
+			],
+			[
+				"mana",
+				"manager_roads"
+			],
+			[
+				"location",
+				"location\tstatement"
+			],
+			[
+				"Over",
+				"OverpassQueries\tmodule"
+			],
+			[
+				"getbuildin",
+				"get_building_by_type\tfunction"
+			],
+			[
+				"setu",
+				"set_building_type\tfunction"
+			],
+			[
+				"mae",
+				"make_graph"
+			],
+			[
+				"build",
+				"building_by_name"
+			],
+			[
+				"building_y",
+				"get_building_by_name"
+			],
+			[
+				"Bil",
+				"Buildings"
+			],
+			[
+				"keys",
+				"_keys"
+			],
+			[
+				"manag",
+				"manager_buildings\tstatement"
+			],
+			[
+				"loc",
+				"LOC_CURRENT"
+			],
+			[
+				"LO",
+				"LOC_NCSU"
+			],
+			[
+				"delete",
+				"deleteFromDatabase"
+			],
+			[
+				"story",
+				"story_markers"
+			],
+			[
+				"instu",
+				"new_instruction_text"
+			],
+			[
+				"openmo",
+				"open_modal_floating_panel"
+			],
+			[
+				"closemod",
+				"close_modal_floating_panel"
+			],
+			[
+				"trai",
+				"TRAINING_STEP"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"openir",
+				"open_irb_consent_modal"
+			],
+			[
+				"open",
+				"open_instruction_read_consent"
+			],
+			[
+				"has",
+				"HAS_CONSENT"
+			],
+			[
+				"LOC",
+				"LOC_PITTSBURGH"
+			],
+			[
+				"consent",
+				"consent_response"
+			],
+			[
+				"cons",
+				"consentRequest\tfunction"
+			],
+			[
+				"create",
+				"createAuthor\tfunction"
+			],
+			[
+				"creat",
+				"createAuthor"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"overfl",
+				"overflow-y"
+			],
+			[
+				"famili",
+				"familiarity_with_NCState_campus"
+			],
+			[
+				"delet",
+				"deleteSceneRequest"
+			],
+			[
+				"possib",
+				"possible_scenes"
+			],
+			[
+				"mar",
+				"update_submitted_marker_values"
+			],
+			[
+				"div",
+				"div_id"
+			],
+			[
+				"butt",
+				"buttons"
+			],
+			[
+				"xh",
+				"xhttp_scene"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"sec",
+				"sceneRequest\tfunction"
+			],
+			[
+				"chara",
+				"character_markers"
+			],
+			[
+				"maer",
+				"marker"
+			],
+			[
+				"marker",
+				"marker_id"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"child",
+				"_child"
+			],
+			[
+				"formi",
+				"_form_id"
+			],
+			[
+				"mark",
+				"marker_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Knowledge/Knowledge.py",
+			"settings":
+			{
+				"buffer_size": 7560,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Knowledge/Discussion.py",
+			"settings":
+			{
+				"buffer_size": 11006,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NPC/Event.py",
+			"settings":
+			{
+				"buffer_size": 20088,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "VirtualWorld/Organization.py",
+			"settings":
+			{
+				"buffer_size": 5518,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import random\nimport names\nimport itertools\nfrom configs import *\nfrom collections import defaultdict\nfrom collections import Counter\nimport itertools\n\nfrom .Relationship import Relationship\nfrom Knowledge.Knowledge import Knowledge\nfrom Knowledge.Bias import Bias\n\n\nclass Person(object):\n\t\"\"\"docstring for Person\"\"\"\n\n\t# Incremental ID for all persons of this class\n\tperson_id = itertools.count().__next__\n\tliving_population = []\n\tdeceased_population = []\n\n\tdef __init__(self, world, birth=None):\n\t\tsuper(Person, self).__init__()\n\t\tself.p_id = self.__class__.person_id()\n\t\tself.world = world\n\t\tself.events = []\n\t\tself.journal = []\t\t\t# journal tracking all events in this Sim's life\n\n\t\t# Stores a list of Relationship objects, per person interacted with\n\t\t# current_relationships = relationships currently in progress \n\t\t# past_relationships = if the person stops meeting this person, then after a set time, we demote them\n\t\t# Future goal: consider how to renew past relationship? Need to track that, but future goal.\n\t\tself.current_relationships = {}\n\t\tself.past_relationships = {}\n\n\t\t# self.partner = None\n\t\tself.spouse = None\n\t\tself.children = []\n\n\t\t# Sexually active at the age 18 \n\t\tself.flag_sexually_active = False\n\n\t\t# Names and aliases for this person\n\t\t# Known aliases, in case of change of name during wedding, etc to track family?\n\t\tself.aliases = set()\n\t\tself.last_name = None\n\t\tself.first_name = None\n\n\t\t# Academic details \n\t\t# ToDo: Represent the knowledge or degree topic? If related to society topic it could \n\t\t#  \t\trepresent an increase in the confidence of the topic \n\t\tself.flag_education = False  # if the person is too old, or not interested in school, don't check\n\t\tself.flag_activate_school = False\n\t\tself.current_school = None\n\t\tself.past_schools = []\n\t\tself.flag_activate_university = False\n\t\tself.university = None\n\t\tself.past_universities = None\n\t\tself.events = []\n\n\t\t# Age for the person \n\t\t# age is set as a @property. If it changes, it triggers flags in the person.\n\t\tself.age = 0\t\t# increments every year \n\n\t\t# Knowledge\n\t\tself.knowledge = Knowledge(self.world)\n\n\n\n\t@classmethod\n\tdef get_population_living(cls):\n\t\treturn cls.living_population\n\n\t@classmethod\n\tdef get_population_deceased(cls):\n\t\treturn cls.deceased_population\n\n\t@classmethod\n\tdef get_npc(cls, id):\n\t\treturn cls.living_population[id]\n\n\tdef set_random_knowledge(self):\n\t\tpass\n\n\tdef add_to_census(self):\n\t\tself.__class__.living_population.append(self)\n\t\tself.census_index = len(self.__class__.living_population)\n\t\tself.world.population.append(self) \n\t\tself.world.birthdays = [self.birthdate.day, self.birthdate.month, self]\n\n\tdef update_relationship(self, other, relationship_type):\n\t\tif other in list(self.current_relationships.keys()):\n\t\t\trelationship = self.current_relationships[other]\n\n\t\t# Don't have a relationship with this person\n\t\t# Creating a new relationship with this person\n\t\telse: \n\t\t\trelationship = Relationship(self, other)\n\t\t\tself.current_relationships[other] = relationship\n\n\t\trelationship.update_relationship(relationship_type, 1)\n\n\n\tdef set_political_affiliation(self, bias: Bias):\n\t\tself.political_affiliation = bias\n\t\tself.knowledge.set_political_affiliation(bias)\n\n\t##################################################\n\t# Everything to do with Names\n\t##################################################\n\t@property\n\tdef name(self):\n\t\treturn \"%s %s\" % (self.first_name, self.last_name)\n\n\t# Last Name\n\t@property\n\tdef last_name(self):\n\t\treturn self.__last_name\n\n\t@last_name.setter\n\tdef last_name(self, last_name=None):\n\t\t\"\"\" Initializing a last name\n\t\tIf given a last name, assume marriage/birth/etc and assign it to the sim\n\t\tIf there are no parents, choose random last name, otherwise take the last name of the parents\n\t\tUses Trey Hunner's Random Name Generator: http://treyhunner.com/2013/02/random-name-generator/\n\t\t\"\"\" \n\t\tif not hasattr(self, 'last_name') and last_name: \n\t\t\tself.__last_name = last_name\n\n\t\t# Changing the last name\n\t\telif last_name and last_name != self.__last_name: \n\t\t\tself.aliases.add(self.name)\n\t\t\tself.__last_name = last_name\n\n\t@property\n\tdef first_name(self):\n\t\treturn self.__first_name\n\n\t@first_name.setter\n\tdef first_name(self, first_name=None):\n\t\t\"\"\" Changing existing first name\n\t\tIf the person already has a name and is changing it, then add it to the aliases\n\t\t\"\"\"\n\n\t\tif not hasattr(self, 'first_name') and first_name: \n\t\t\tself.__first_name = first_name\n\n\t\telif first_name and first_name != self.first_name:\n\t\t\tself.aliases.add(self.name)\n\t\t\tself.__first_name = first_name\n\n\t##################################################\n\t# Aging and everything that comes with growing old\n\t##################################################\n\n\tdef do_age(self):\n\t\tself.age += 1\n\t\t# Todo: Recalculate your political views?\n\n\t@property\n\tdef age(self):\n\t\treturn self.__age\n\n\t@age.setter\n\tdef age(self, age):\n\t\t\"\"\"Aging the person a year at a time. \n\n\t\t@property age will allow for changes in flags... \n\t\tEg. allowing for school, work, sexually active behaviour, etc\n\t\t\"\"\"\n\n\t\t# if not hasattr(self, 'age') and age: \n\t\t# \tself.__age = age\n\n\t\tif isinstance(age, int):\n\t\t\tself.__age = age\n\n\n\t\t# if self.town == self.world.towns['Area 51']:\n\t\t# \treturn\n\n\t\t# print \"Otherwise here.... \", self.town\n\t\t# Check if age is old enough for sexual partners\n\t\tif not self.flag_sexually_active and age > 18 and age <= 44: \n\t\t\tself.flag_sexually_active = True\n\n\t\tif self.flag_sexually_active and age > 45: \n\t\t\tself.flag_sexually_active = False\n\n\t\tif self.spouse and not self.pregnant and self.flag_sexually_active: \n\t\t\tself.consider_having_baby()\n\n\t\t# if self.pregnant and self.world.current_date >= self.conception_date: \n\t\t# \tself.have_baby()\n\n\t\t# Education Loops\n\t\tif age > 5 and age <= 17:  # 17 because we've not simulated universities yet\n\t\t\tif not self.current_school: \n\t\t\t\tself.flag_education = True\n\t\t\t\tself.enroll_in_school()\n\n\t\telif self.flag_education:\n\t\t\tself.flag_education = False\n\t\t\tself.unenroll_from_school()\n\n\t\t# if self.flag_education and not self.school: \n\t\t# \tself.enroll_in_school()\n\n\n\t\t# if self.spouse and self.gender==\"female\" and not self.pregnant: \n\t\t# \t# homosexual couple, toss coin to see who gets pregnant? \n\t\t# \t# can be changed later\n\t\t# \tif self.spouse.gender == \"female\" and not self.spouse.pregnant: \n\t\t# \t\t# should you get pregnant \n\t\t# \t\tif random.random() < 0.5: \n\n\t\t# \t\t\t\tself.pregnant_in_marriage()\n\t\t# \telse: \n\n\t##################################################\n\t# Everything to do with Marriage and Babies\n\t##################################################\n\n\t@property\n\tdef pregnant(self):\n\t\tif self.gender == \"female\": \n\t\t\treturn self.__pregnant\n\t\telse: \n\t\t\treturn False\n\n\t@pregnant.setter\n\tdef pregnant(self, pregnant):\n\t\tif self.gender == \"female\":\n\t\t\tself.__pregnant = pregnant\n\n\tdef have_baby(self):\n\t\t# old = len(self.children)\n\t\tfrom .Event import Birth\n\t\tborn = Birth(self.world, self, self.spouse)\n\t\tself.pregnant = False\n\t\tcurrent_date = self.world.current_date\n\n\t\tself.world.conception_dates[(current_date.day, current_date.month)].remove(self)\n\n\t\tself.children.append(born.baby)\n\t\tborn.baby.add_to_census()\n\t\t# new = len(self.children)\n\n\t\t# born.birthdate = birthdate\n\n\tdef get_pregnant(self):\n\t\tself.pregnant = True\n\t\t# print self.world.current_date, self, \" is pregnant\"\n\n\t\tconception_date = self.world.current_date \n\t\tconception_date = conception_date.replace(days=270)\n\t\tself.world.conception_dates[(conception_date.day, conception_date.month)].append(self)\n\n\t\tjournal_message = \"Announcement - We're pregnant! \", self.name, self.spouse.name\n\t\tself.journal.append(journal_message)\n\t\tself.spouse.journal.append(journal_message)\t\n\n\n\tdef consider_having_baby(self):\n\t\t\"\"\" Some probability of having a baby \n\t\t\"\"\"\n\t\tif self.children: \n\t\t\tn_kids = len([child for child in self.children if self in child.parents and self.spouse in child.parents])\n\t\telse:\n\t\t\tn_kids = 0\n\n\t\tprobability_of_a_child = 0.35 / (n_kids + 1)\n\n\t\t# print self, \"Thinking about a baby\", probability_of_a_child\n\n\t\t# Decided to have a child\n\t\tif random.random() < probability_of_a_child: \n\t\t\tif self.gender == \"female\":\n\t\t\t\tself.get_pregnant()\n\n\t\t\telif self.spouse.gender == \"female\":\n\t\t\t\tself.spouse.get_pregnant()\n\n\t\t\telse:\n\t\t\t\tprint(\"Want to adopt, but no such feature in game yet\")\n\n\t##################################################\n\t# Everything to do with Academia - Schools and Universities \n\t##################################################\n\n\t# Possibility of enrolling in school -- some may choose not to? \n\t# ToDo: Change probability of enrollment occurring from 1 to some percentage chance\n\t# Future: Could change this per region based on real stats? \n\t# ToDo: Need to move this to the events class? \n\tdef enroll_in_school(self):\n\t\tself.flag_activate_school = True\n\n\t\t# If there's a school\n\t\tif self.town.schools:\n\t\t\tchosen_school = random.choice(self.town.schools)\n\t\t\tchosen_school.enroll_student(self)\n\t\t\tself.current_school = chosen_school\n\n\t\telse: \n\t\t\tprint(\"%s district has no school to enroll in. Relocate?\" % (self.town))\n\n\tdef unenroll_from_school(self):\n\t\tself.flag_activate_school = False\n\t\tself.current_school.unenroll_student(self)\n\t\tself.past_schools.append(self.current_school)\n\t\tself.current_school = None\n\n\n\t##################################################\n\t# Relationships with other people \n\t##################################################\n\n\tdef simple_interaction(self, group, relationship_type):\n\t\t\"\"\"Power up relationship with a person\"\"\" \n\t\tgroup_to_interact_with = list(set(group) - set([self]))\n\n\t\tfor person in group_to_interact_with: \n\t\t\tself.update_relationship(person, relationship_type)\n\n\n\tdef update_relationship(self, other, relationship_type):\n\t\tif other in self.current_relationships.keys():\n\t\t\trelationship = self.current_relationships[other]\n\n\t\t# Don't have a relationship with this person\n\t\t# Creating a new relationship with this person\n\t\telse: \n\t\t\trelationship = Relationship(self, other)\n\t\t\tself.current_relationships[other] = relationship\n\n\t\trelationship.update_relationship(relationship_type, 1)\n\n\n\n\t##################################################\n\t# Everything to do with Addressses and Locations \n\t##################################################\n\n\t# To Do\n\tdef relocate_home(self, town=None, house_number=None, with_household=[]):\n\t\t\"\"\"Relocation of Home\n\t\t\tUsed to change the location of the Person's home \n\t\t\tIf the actual address changes - compare house_number and city only? \n\t\t\t@param tuple address : (house_number, city)\n\t\t\t@param Person[] with_household : True (household moving with person) | False (moving out alone)\n\t\t\"\"\" \n\n\t\t# If moving to another house in the same town\n\t\t# if town == self.town and house_number != self.house_number: \n\t\t# \tclear\n\n\n\t\t# self.past_addresses.append(\"%s, %s\"%(self.house_number, self.town.name))\n\n\t\t# if address != self.address: \n\t\t# \tself.past_addresses.append(self.current_home)\n\t\t\n\t\t# if self.town != town:\n\t\t# \ttown.find_unoccupied_home()\n\n\t\tpass\n\n\n\n\t# @property\n\t# def town(self):\n\t# \t# print \"Getting town\"\n\t# \tif not hasattr(self, 'town'):\n\t# \t\tself.__town = None\n\t# \treturn self.__town\n\t\t\t\n\n\n\t# @town.setter\n\t# def town(self, town=None):\n\t# \tprint \"Setting town\"\n\t# \t\"\"\" Initializing a last name\n\t# \tIf given a last name, assume marriage/birth/etc and assign it to the sim\n\t# \tIf there are no parents, choose random last name, otherwise take the last name of the parents\n\t# \tUses Trey Hunner's Random Name Generator: http://treyhunner.com/2013/02/random-name-generator/\n\t# \t\"\"\" \n\t# \t# if not hasattr(self, 'town'): \n\t# \tself.__town = town\n\n\t\t# # Changing the last name\n\t\t# elif town and town != self.__town: \n\t\t# \tself.aliases.add(self.name)\n\t\t# \tself.__town = town\n\n\t\t\n\n\t\t# else: \n\t\t# \tprint \"Error! Use the relocate_home method to move independently or with household\"\n\n\n\tdef __str__(self):\n\t\treturn \"%s\" % (self.name)\n\n\tdef __repr__(self):\n\t\treturn \"%s\" % (self.name)\n",
+			"file": "NPC/Person.py",
+			"file_size": 11829,
+			"file_write_time": 131777505610000000,
+			"settings":
+			{
+				"buffer_size": 11828,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"theme",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"them",
+				"Boxy Theme: Activation"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package vi",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"lint",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"disable lin",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anacond",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"random",
+				"Random:Int"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"pageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"pack",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49315))",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/__pycache__",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/AllSides",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Knowledge",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/NPC",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/VirtualWorld"
+	],
+	"file_history":
+	[
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/NPC/Relationship.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/VirtualWorld/World.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/NPC/Person.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Knowledge/View.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/Sample Output/exag_001.txt",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/VirtualWorld/Organization.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/VirtualWorld/Town.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/OpininionDynamicsInNPCs.sublime-project",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Knowledge/Bias.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/Discussion.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/NPC/Event.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Knowledge/Article.py",
+		"/Users/sasha/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/sasha/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/Person.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Knowledge/Discussion.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/setup_utils.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/World.py",
+		"/Users/sasha/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Knowledge/Opinion.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Knowledge/Source.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Knowledge/Topic.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/AllSides/__init__.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/__init__.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Population/__init__.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/VirtualWorld/__init__.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Population/Relationship.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Person.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/Relationship.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Event.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/Event.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/configs.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/World.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/configs.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Town.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/Town.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamicsInNPCs/Knowledge/Knowledge.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/setup_utils.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/World.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/Knowledge.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/Article.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Person.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/configs.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/Source.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/Bias.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/Opinion.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/world_knowledge.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/Knowledge.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/Topic.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/AllSides/sources.json",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/AllSides/articles.json",
+		"/Users/sasha/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Sixteen.sublime-color-scheme",
+		"/Users/sasha/Library/Application Support/Sublime Text 3/Packages/User/Boxy Ocean.tmTheme",
+		"/Users/sasha/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+		"/Users/sasha/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/Users/sasha/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/Boxy Ocean.sublime-theme",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/AllSides/topics.json",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/__init__.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/Articles.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/Sources.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/Topics.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/AllSides/Knowledge.py",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/Knowledge/topics.json",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/OpinionDynamics/Knowledge/topics.json",
+		"/Users/sasha/Desktop/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/Knowledge/scraper.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/Overpass/OverpassQueries.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/Overpass/Location.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/talktown/residence.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/RealWorld/Building.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/utils/settings.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/utils/utilities.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/RealWorld/Road.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/RealWorld/Node.py",
+		"/Users/sasha/.bash_profile",
+		"/tmp/subl stdin M6l4Ed.txt",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/static/survey/demographics.js",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/manager/AuthorManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/manager/SceneManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/manager/IRBManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/static/survey/index.css",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/settings.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/urls.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/static/survey/gmap.js",
+		"/Volumes/sazad6/dev.m.gatech/Omega/Play.html",
+		"/Users/sasha/Desktop/Source.html",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/manager/StoryManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/README.md",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/manager/__init__.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/templates/SurveyBackend/index.html",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/models.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/frontend/index.css",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/frontend/index.html",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/frontend/gmap.js",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/views.py",
+		"/Users/sasha/Desktop/NCSU/-- Other Organizations/GaTech/2 - 2015 Spring/Computational Creativity/Project/Jill/jill_server/jill_server/manager/PageManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/SurveyBackend/manager/SiteManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/SurveyBackend/frontend/index.html",
+		"/Users/sasha/Desktop/NCSU/-- Other Organizations/GaTech/2 - 2015 Spring/Computational Creativity/Project/Jill/jill_server/jill_server/settings.py",
+		"/Users/sasha/Desktop/NCSU/-- Other Organizations/GaTech/2 - 2015 Spring/Computational Creativity/Project/Jill/jill_server/ux ui/index.html",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/Frontend/index.html",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/MapStorySurvey/Frontend/index.css",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/SurveyBackend/urls.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/SurveyBackend/manager/__init__.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/SurveyBackend/models.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/SurveyBackend/manager/AuthorManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/SurveyBackend/manager/StoryManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/SurveyBackend/manager/UserManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/SurveyBackend/manager/SurveyManager.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/SurveyBackend/settings.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/SurveyBackend/__init__.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/__init__.py",
+		"/Users/sasha/.Trash/MapSurvey_Backend/MapSurvey_Backend/manager/UserManager.py",
+		"/Users/sasha/.Trash/MapSurvey_Backend/MapSurvey_Backend/urls.py",
+		"/Users/sasha/.Trash/MapSurvey_Backend/MapSurvey_Backend/models.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/requirements.txt",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Survey/SurveyBackend/Procfile",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/Map Story - Location Based Survey/Procfile",
+		"/Users/sasha/.zprofile",
+		"/etc/zshrc",
+		"/etc/zprofile",
+		"/Users/sasha/.zshrc",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/talktown/config/basic_config.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/talktown/simulation.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/talktown/config/appearance_config.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/talktown/config/social_sim_config.py",
+		"/Users/sasha/Desktop/NCSU/Research/MapStory/_Project/MapStoryGen/talktown/config/town_generation_details_config.py",
+		"/Users/sasha/Desktop/Organizations/NCSU/Research/MapStory/Map Story - Location Based Survey/MapSurvey/index.css",
+		"/Users/sasha/Desktop/Organizations/NCSU/Research/CulturalPropNPC/_Project/GenerativeNPCs/Relationship.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"simple_interaction",
+			"members_discuss_article",
+			"GroupDiscussion",
+			"update_views",
+			"initiate_group_discussion",
+			"members_discuss_article",
+			"school",
+			"members_discuss_article",
+			"simple_interaction",
+			"find_best_grouping_of_opinions",
+			"adjust_unc",
+			"contemplation",
+			"make_opinions_on_topics",
+			"Discussion",
+			"GroupDiscussion",
+			"public_opinion_formed",
+			"closest_group",
+			"group_discussion",
+			"->",
+			"abs",
+			"adjust_unc",
+			"group_discussion",
+			"discuss",
+			"view.unc",
+			"internal_debate",
+			"check_normative_social_influence",
+			"public_opinion_formed",
+			"new_views",
+			"group_discussion",
+			"title\":",
+			"att:",
+			"get_views",
+			"initiate_group_discussion",
+			"members_discuss_article",
+			"teach_students_about_article",
+			"go_to",
+			"GroupDiscussion",
+			"internal_debate",
+			"check_normative_social_influence",
+			"calculate_fa",
+			"check_normative_social_influence",
+			"UNC_THR",
+			"public_opinion_formed",
+			"group_discussion",
+			"classify_views_into_k_groups",
+			"find_best_grouping_of_opinions",
+			"group_discussion",
+			"contemplate",
+			"group_discussion",
+			"view",
+			"update_views",
+			"update_view",
+			"go_to",
+			"all_members_simulate_interaction",
+			"init_school_system",
+			"Article",
+			"initiate_group_discussion",
+			"\"%(",
+			"go_to",
+			"go_to_sc",
+			"organizations",
+			"go_to_school",
+			"enroll_in_school",
+			"flag_activate_school",
+			"current_school",
+			"enroll_in_school",
+			"flag_activate_school",
+			"enroll_in_school",
+			"age_living_population",
+			"go_to_school",
+			"teach_fact",
+			"knowledge",
+			"init_school_system",
+			"day,month",
+			"all_members_simulate_interaction",
+			"go_to_school",
+			"no_public_opinion",
+			"view",
+			"View",
+			"view",
+			": ",
+			"public_opinion_formed",
+			"check_normative_social_influence",
+			"internal_debate",
+			"check_normative_social_influence",
+			"public_opinion_formed",
+			"no_public_opinion",
+			"public_opinion_formed",
+			"no_public_opinion",
+			"public_opinion_formed",
+			"check_normative_social_influence",
+			"public_opinion_formed",
+			"no_public_opinion",
+			"group_discussion",
+			"find_best_grouping_of_opinions",
+			"current_view_of_source",
+			"get_opinion_for_topic",
+			"article",
+			"view",
+			"find_best_grouping_of_opinions",
+			"closest_group_to_view",
+			"consider_article",
+			"Discussion",
+			"find_best_grouping_of_opinions",
+			"= ",
+			"closest_group_to_view",
+			"\t\t\n",
+			"tot_opinion",
+			"find_best_grouping_of_opinions",
+			"num_of_people",
+			"self.grouping",
+			"grouping",
+			"opinion",
+			"self.age",
+			"age",
+			"classify_views_into_k_groups",
+			"group",
+			"classified_data",
+			"data_point",
+			"class_data",
+			"get_opinion",
+			"initiate_group_discussion",
+			"discuss",
+			"set_initial_views",
+			"filter_articles_by_topic",
+			"set_biases",
+			"self.age",
+			"enroll_in_school"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Knowledge/Knowledge.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2879,
+								2859
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"SL.14.region_keys":
+							[
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1236.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Knowledge/Discussion.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1889,
+								1889
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.15.region_keys":
+							[
+							],
+							"SL.16.region_keys":
+							[
+							],
+							"SL.20.region_keys":
+							[
+							],
+							"SL.28.region_keys":
+							[
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"complete_parameters": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 707.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "NPC/Event.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15821,
+								15821
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.16.region_keys":
+							[
+							],
+							"SL.18.region_keys":
+							[
+							],
+							"SL.28.region_keys":
+							[
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"complete_parameters": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8419.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "VirtualWorld/Organization.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2033,
+								2033
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.19.region_keys":
+							[
+							],
+							"SL.21.region_keys":
+							[
+							],
+							"SL.26.region_keys":
+							[
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "NPC/Person.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9212,
+								9212
+							]
+						],
+						"settings":
+						{
+							"SL.32.region_keys":
+							[
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5473.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "OpininionDynamicsInNPCs.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"b",
+				"RealWorld/Building.py"
+			],
+			[
+				"",
+				"Overpass/OverpassQueries.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,3 +1,10 @@
+from IPython.display import Markdown, display
+
+
+def printmd(string):
+    display(Markdown(string))
+    
+
 START_SIM_DATE = (1990, 1, 1)
 
 TOWNS = [
