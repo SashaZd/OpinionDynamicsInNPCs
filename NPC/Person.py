@@ -257,7 +257,7 @@ class Person(object):
 		# print self.world.current_date, self, " is pregnant"
 
 		conception_date = self.world.current_date 
-		conception_date = conception_date.replace(days=270)
+		conception_date = conception_date.shift(days=270)
 		self.world.conception_dates[(conception_date.day, conception_date.month)].append(self)
 
 		journal_message = "Announcement - We're pregnant! ", self.name, self.spouse.name

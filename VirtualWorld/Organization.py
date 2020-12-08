@@ -74,8 +74,8 @@ class Organization(object):
 		# Updates relationship
 
 		if len(self.current_members) > 1: 
-			for student in self.current_members:
-				student.simple_interaction(self.current_members, type_interaction)
+			for person in self.current_members:
+				person.simple_interaction(self.current_members, type_interaction)
 
 			# Currently a 50% chance that you'll have a discussion with the group you're interacting with
 			# If you choose not to have a discussion, the NPCs still update their simple relationships with each other 
@@ -89,7 +89,6 @@ class Organization(object):
 		# No topic in mind at the moment, so choose a common one?
 
 		if len(self.current_members) > 1 and random.random() < 0.2:
-			print("Starting discussion in the school")
 			group_discussion = GroupDiscussion(world=self.world, group=self.current_members, article=article, discussion_type=event_title)
 			self.world.discussions.append(group_discussion)
 			# self.members_interact()
@@ -151,6 +150,7 @@ class School(Organization):
 			student.knowledge.add_article(article)
 
 		event_title = "%s Discussion"%(self.type)
+		# print("Starting discussion in the school")
 		self.members_discuss_article(article=article, event_title=event_title)
 
 

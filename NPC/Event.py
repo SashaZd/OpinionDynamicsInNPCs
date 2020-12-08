@@ -389,9 +389,9 @@ class TheBeginning(Event):
 		for i, day in enumerate(_dates):
 			bias = biases[categ_chosen]
 
-			birthdate = sim_date.replace(days=day)
+			birthdate = sim_date.shift(days=day)
 			_year = 20 + random.choice(list(range(10)))
-			birthdate = birthdate.replace(years=-_year)
+			birthdate = birthdate.shift(years=-_year)
 			born = Birth(self.world, None, None, birthdate)
 
 			born.baby.set_political_affiliation(bias)
@@ -436,7 +436,7 @@ class TheBeginning(Event):
 				significant_other = random.choice(matches)
 				# choose wedding date?
 				sim_date = self.world.current_date
-				wedding_date = sim_date.replace(days=random.choice(list(range(365))))
+				wedding_date = sim_date.shift(days=random.choice(list(range(365))))
 				# marriage =
 				Marriage(wedding_date, person, significant_other)
 

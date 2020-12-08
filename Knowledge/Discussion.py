@@ -571,7 +571,7 @@ class Discussion(object):
 
 		ax1 = plt.subplot(211)
 		plt.xticks(np.arange(0, max(rounds) + 1, 1))
-		plt.yticks(np.arange(-1.0, 1.25, 0.25), ('Left', 'Moderately Left', 'Lean Left', 'Slightly Lean Left', 'Centrist', 'Slightly Lean Right', 'Lean Right', 'Moderately Right', 'Right', 'Hidden'))
+		plt.yticks(np.arange(-1.0, 1.50, 0.25), ('Left', 'Moderately Left', 'Lean Left', 'Slightly Lean Left', 'Centrist', 'Slightly Lean Right', 'Lean Right', 'Moderately Right', 'Right', 'Hidden'))
 		for person in self.participants[:-1]:
 			plt.plot(rounds, person.first_name, data=df_ops, marker='o')
 		plt.xlabel('Rounds')
@@ -579,7 +579,7 @@ class Discussion(object):
 
 		ax2 = plt.subplot(212, sharex=ax1)
 		# plt.xticks(np.arange(0, max(rounds) + 1, 1.0))
-		plt.yticks(np.arange(0, 1, 0.10), ('0.0', '0.1', '0.2', '0.3', '0.4', '0.5', '0.6', '0.7', '0.8', '0.9', '1.0'))
+		plt.yticks(np.arange(0, 1.10, 0.10), ('0.0', '0.1', '0.2', '0.3', '0.4', '0.5', '0.6', '0.7', '0.8', '0.9', '1.0'))
 		for person in self.participants[:-1]:
 			plt.plot(rounds, person.first_name, data=df_unc, marker='o')
 		plt.legend([person.first_name for person in self.participants[:-1]], loc='lower right')

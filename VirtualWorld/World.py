@@ -111,7 +111,7 @@ class World(object):		# the sim will run for 50 years by default
 	def do_things(self):
 		born = []
 		while True: 		# self.env.now <= self.until_year:
-			World.current_date = World.current_date.replace(days=1)
+			World.current_date = World.current_date.shift(days=1)
 			day, month = World.current_date.day, World.current_date.month
 			weekday = World.current_date.weekday() 			# returns day of the week, 0-6 0=Monday
 
